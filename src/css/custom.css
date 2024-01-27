@@ -1,0 +1,62 @@
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+
+@font-face {
+  font-family: Inter;
+  src: url(/font/Inter-Light.ttf);
+  font-weight: light;
+}
+
+@font-face {
+  font-family: Unbounded;
+  font-weight: 600;
+  src: url(/font/Unbounded-Medium.woff2);
+}
+
+@font-face {
+  font-family: Unbounded;
+  font-weight: 300;
+  src: url(/font/Unbounded-Light.woff2);
+}
+
+
+:root {
+  --ifm-color-primary: #e6007a;
+  --ifm-color-primary-dark: #cf006e;
+  --ifm-color-primary-darker: #c40068;
+  --ifm-color-primary-darkest: #a10055;
+  --ifm-color-primary-light: #fd0086;
+  --ifm-color-primary-lighter: #ff0a8c;
+  --ifm-color-primary-lightest: #ff2c9c;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+  font-family: Inter;
+}
+
+/* For readability concerns, you should choose a lighter palette in dark mode. */
+[data-theme='dark'] {
+  --ifm-color-primary: #00b2ff;
+  --ifm-color-primary-dark: #00a0e6;
+  --ifm-color-primary-darker: #0097d9;
+  --ifm-color-primary-darkest: #007db3;
+  --ifm-color-primary-light: #1abaff;
+  --ifm-color-primary-lighter: #26beff;
+  --ifm-color-primary-lightest: #4dc9ff;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: Unbounded;
+}
+
+.navbar__title {
+  font-family: Unbounded;
+  font-weight: 300;
+}
+
+
+.hidden {
+  display: none !important;
+}
