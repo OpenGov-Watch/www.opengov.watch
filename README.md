@@ -1,4 +1,4 @@
-Repo for [OpenGov.Watch](https://opengov.watch)
+Repo for [OpenGov.Watch](https://www.opengov.watch)
 
 # Website
 
