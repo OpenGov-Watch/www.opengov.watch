@@ -71,7 +71,7 @@ const config = {
             position: 'left',
             label: 'Docs',
           },*/
-          {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/OpenGov-Watch/www.opengov.watch',
             label: 'GitHub',
