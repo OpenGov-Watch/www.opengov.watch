@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'OpenGov.Watch',
   tagline: 'Watching OpenGov',
-  favicon: "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1340 1410.3' xml:space='preserve'%3E%3Cellipse fill='%23E6007A' cx='663' cy='147.9' rx='254.3' ry='147.9'/%3E%3Cellipse fill='%23E6007A' cx='663' cy='1262.3' rx='254.3' ry='147.9'/%3E%3Cellipse transform='rotate(-60 180.499 426.56)' fill='%23E6007A' cx='180.5' cy='426.5' rx='254.3' ry='148'/%3E%3Cellipse transform='rotate(-60 1145.575 983.768)' fill='%23E6007A' cx='1145.6' cy='983.7' rx='254.3' ry='147.9'/%3E%3Cellipse transform='rotate(-30 180.45 983.72)' fill='%23E6007A' cx='180.5' cy='983.7' rx='148' ry='254.3'/%3E%3Cellipse transform='rotate(-30 1145.522 426.601)' fill='%23E6007A' cx='1145.6' cy='426.6' rx='147.9' ry='254.3'/%3E%3C/svg%3E",
+  favicon: "img/logo.svg",
 
   // Set the production url of your site here
   url: 'https://www.opengov.watch',
@@ -41,10 +41,10 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          routeBasePath: '/'
         },
         blog: {
           showReadingTime: true,
+          routeBasePath: '/'
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -65,15 +65,15 @@ const config = {
           src: 'img/logo.svg',
         },
         items: [
-          {
+/*          {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
             label: 'Docs',
-          },
-          //{to: '/blog', label: 'Blog', position: 'left'},
+          },*/
+          {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://www.opengov.watch/',
+            href: 'https://github.com/OpenGov-Watch/www.opengov.watch',
             label: 'GitHub',
             position: 'right',
           },
@@ -89,7 +89,11 @@ const config = {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
+      colorMode: {
+        defaultMode: 'dark'
+      }
     }),
+
 };
 
 module.exports = config;

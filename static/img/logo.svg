@@ -1,1 +1,29 @@
-<svg id="Logo" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2000 2000"><defs><style>.cls-1{fill:#e6007a;}</style></defs><ellipse class="cls-1" cx="1000" cy="441.78" rx="254.27" ry="147.95"/><ellipse class="cls-1" cx="1000" cy="1556.15" rx="254.27" ry="147.95"/><ellipse class="cls-1" cx="517.47" cy="720.38" rx="254.27" ry="147.95" transform="translate(-365.13 808.33) rotate(-60)"/><ellipse class="cls-1" cx="1482.53" cy="1277.56" rx="254.27" ry="147.95" transform="translate(-365.13 1922.69) rotate(-60)"/><ellipse class="cls-1" cx="517.47" cy="1277.56" rx="147.95" ry="254.27" transform="translate(-569.45 429.89) rotate(-30)"/><ellipse class="cls-1" cx="1482.53" cy="720.38" rx="147.95" ry="254.27" transform="translate(-161.57 837.78) rotate(-30)"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1920 1920" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-3372.51,0)">
+        <g id="Artboard1" transform="matrix(1,0,0,1,3372.51,0)">
+            <rect x="0" y="0" width="1920" height="1920" style="fill:rgb(236,72,153);"/>
+            <clipPath id="_clip1">
+                <rect x="0" y="0" width="1920" height="1920"/>
+            </clipPath>
+            <g clip-path="url(#_clip1)">
+                <g transform="matrix(2.04889,0,0,2.04889,-1713.53,-718.573)">
+                    <g id="kusama-ksm-seeklogo.svg" transform="matrix(2.59996,0,0,2.59996,-826.544,1972.47)">
+                        <g transform="matrix(1,0,0,1,-1000,-612.875)">
+                            <clipPath id="_clip2">
+                                <rect x="0" y="0" width="2000" height="1225.75"/>
+                            </clipPath>
+                            <g clip-path="url(#_clip2)">
+                                <path d="M1887,67.73C1849.51,34.41 1807.85,9.41 1757.86,1.08C1695.38,-7.25 1632.86,34.41 1591.24,63.56C1549.62,92.71 1466.24,167.7 1432.95,196.86C1399.66,226.02 1316.32,242.68 1178.85,326C1041.38,409.32 508.2,750.88 508.2,750.88L645.66,750.88L25,1071.63L87.48,1071.63L0,1138.28C50,1150.77 100,1142.44 145.79,1117.45L145.79,1138.28C145.79,1138.28 883.1,846.69 1024.73,921.67L937.25,946.67C945.58,946.67 1083.04,955 1083.04,955C1091.38,1013.32 1124.7,1067.47 1174.69,1096.63C1258,1150.78 1262.16,1184.11 1262.16,1184.11C1262.16,1184.11 1220.51,1200.77 1220.51,1225.76C1299.65,1200.76 1382.96,1200.76 1457.94,1225.76C1457.94,1225.76 1453.78,1200.76 1395.46,1184.11C1337.14,1159.11 1287.16,1121.63 1249.67,1067.47C1216.34,1021.65 1203.85,963.33 1224.67,909.18C1245.49,855.03 1316.32,825.87 1462.11,750.89C1632.9,663.41 1674.55,596.77 1695.38,542.61C1716.21,488.45 1757.87,388.49 1774.53,338.5C1791.19,292.68 1820.35,255.19 1857.84,221.87C1903.66,196.87 1953.65,176.04 1999.47,159.38C2007.8,163.54 1916.15,88.56 1887,67.73Z" style="fill-rule:nonzero;"/>
+                            </g>
+                        </g>
+                    </g>
+                    <g transform="matrix(1,0,0,1,26.4866,-4184.81)">
+                        <circle cx="1106.87" cy="4693.1" r="72.838" style="fill:white;"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
