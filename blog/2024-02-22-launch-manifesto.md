@@ -7,7 +7,7 @@ slug: web3-is-a-promise-opengov-is-the-way
 
 ## Good Morning!
 
-**We are [OpenGov.Watch](https://www.opengov.watch).**
+We are [OpenGov.Watch](https://www.opengov.watch).
 
 We are here to help Polkadot Governance grow up and transform Polkadot into the most impactful Web3 ecosystem this beautiful planet has ever seen! We will do this by providing information, leading initiatives, and developing Polkadot governance structures. 
 
@@ -81,3 +81,5 @@ We will publish more in the coming days. Let's connect so that you'll be there w
 - YouTube: [@alice_und_bob](https://www.youtube.com/@alice_und_bob/)
 - Telegram: [@alice_und_bob](https://t.me/alice_und_bob), [@jeepso](https://t.me/jeepso)
 - LinkedIn [Tommi Enenkel](https://www.linkedin.com/in/tommi-enenkel/)
+
+![Govern Polkadot](/img/2024-02-22-govern-polkadot.png)
