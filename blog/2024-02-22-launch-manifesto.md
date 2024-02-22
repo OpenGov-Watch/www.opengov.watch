@@ -81,5 +81,6 @@ We will publish more in the coming days. Let's connect so that you'll be there w
 - YouTube: [@alice_und_bob](https://www.youtube.com/@alice_und_bob/)
 - Telegram: [@alice_und_bob](https://t.me/alice_und_bob), [@jeepso](https://t.me/jeepso)
 - LinkedIn [Tommi Enenkel](https://www.linkedin.com/in/tommi-enenkel/)
+- [Subsocial](https://polkaverse.com/12859)
 
 ![Govern Polkadot](/img/2024-02-22-govern-polkadot.png)
