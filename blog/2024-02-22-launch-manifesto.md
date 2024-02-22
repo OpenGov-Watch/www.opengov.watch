@@ -59,7 +59,9 @@ What we do also have is a few hundred million dollars in on-chain Treasury funds
 
 This is the context in which Polkadot OpenGov is born. The aggregate of all the people that were digging deep enough into crypto to discover Polkadot. A Web3 ecosystem that actually cares about the future. All of us who participate in this journey are called to ensure that Polkadot will make a strong positive impact on the world.
 
-OpenGov is the way how we negotiate the future while we build it.
+**OpenGov is the way how we negotiate the future while we build it.**
+
+And you were born just right to be a part of it!
 
 ## Watchers of the Gov
 Polkadot Governance is young and disorganized. But its potential is huge! Polkadot OpenGov could become the most impactful DAO of Web3.
