@@ -79,5 +79,5 @@ Our watch has started.
 We will publish more in the coming days. Let's connect so that you'll be there when it happens:
 - Twitter: [@alice_und_bob](https://twitter.com/alice_und_bob) & [@xcjeeper](https://twitter.com/xcjeeper)
 - YouTube: [@alice_und_bob](https://www.youtube.com/@alice_und_bob/)
-- Telegram
+- Telegram: [@alice_und_bob](https://t.me/alice_und_bob), [@jeepso](https://t.me/jeepso)
 - LinkedIn [Tommi Enenkel](https://www.linkedin.com/in/tommi-enenkel/)
