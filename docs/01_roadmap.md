@@ -6,7 +6,7 @@ We continously monitor Polkadot Governance and provide regular reports for inter
 - weekly office hours (to get your questions answered)
 - monthly governance report
 - monthly Technical Fellowship proceedings
-- quartlery budget report
+- quarterly budget report
 - quarterly strategy report
 - 6 Governance initiatives on focus topics as agreed with the community
 - proposed Governance standards
