@@ -1,7 +1,21 @@
-| Name                                       | Publication |
+# Roadmap
+We continously monitor Polkadot Governance and provide regular reports for interested parties. Our portfolio consists of:
+- weekly office hours (to get your questions answered)
+- monthly governance report
+- monthly Technical Fellowship proceedings
+- quartlery budget report
+- quarterly strategy report
+- 6 Governance initiatives on focus topics as agreed with the community
+- proposed Governance standards
+- research paper
+
+## Timeline
+Our planned timeline is as follows, but can be subject to change:
+
+| Name                                       | Target Date |
 |:-------------------------------------------|:------------|
-| 2024-02 Technical Fellowship Proceedings   | 2024-02-20  |
-| Launch Bookable Calls                      | 2024-03-01  |
+| [2024-02 Technical Fellowship Proceedings](https://forum.polkadot.network/t/technical-fellowship-opendev-call-2024-02-20/6355)   | 2024-02-20  |
+| [Launch Bookable Calls](/booking)          | 2024-03-01  |
 | Launch Referenda Overviews                 | 2024-03-01  |
 | Launch Guides Section                      | 2024-03-08  |
 | Budget Reporting Standards Draft           | 2024-03-15  |
@@ -42,4 +56,3 @@
 | 2024-12 Governance Report                  | 2024-12-31  |
 | 2024-Q4 Budget Report                      | 2024-12-31  |
 | Research Paper                             | 2024-12-31  |
-``` &#8203;``【oaicite:0】``&#8203;

@@ -41,10 +41,10 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
+          routeBasePath: '/'
         },
         blog: {
           showReadingTime: true,
-          routeBasePath: '/'
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -65,13 +65,14 @@ const config = {
           src: 'img/logo.svg',
         },
         items: [
-/*          {
+          {
+            
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
             label: 'Docs',
-          },*/
-          {to: '/', label: 'Blog', position: 'left'},
+          },
+          {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/OpenGov-Watch/www.opengov.watch',
             label: 'GitHub',

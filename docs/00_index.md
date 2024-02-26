@@ -1,6 +1,11 @@
 ---
 slug: /
 ---
-# Watcher of the Gov
+# Welcome to OpenGov.Watch
 
-Hear my words and bear witness to my vow. The Grift gathers, and now my watch begins. It shall not end until I get rekt. I shall take no bribe, hold no grudge, shill no scams. I shall wear no crowns and win no glory. I shall downbad and upgood at my post. I am the guide in the shitstorm. I am the watcher on the gov. I am the shield that guards the realms of Dot. I pledge my gains and honor to the Opengov.Watch, for this proposal and all the ones to come.
+This page has a growing collection of resources on Polkadot OpenGov.
+
+- To learn what Polkadot OpenGov is, read the [Introdudction to OpenGov](https://wiki.polkadot.network/docs/learn-polkadot-opengov) in the Polkadot Wiki first.
+- For our working plan, check out our [Roadmap](Roadmap)
+- Do you need help and can't find the answers? [Book a call](booking)
+- We have written a Manifesto to explain our philosophy: [Web3 is a promise. OpenGov is the way.](/blog/web3-is-a-promise-opengov-is-the-way)

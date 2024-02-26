@@ -1,0 +1,3 @@
+# Watcher of the Gov
+
+Hear my words and bear witness to my vow. The Grift gathers, and now my watch begins. It shall not end until I get rekt. I shall take no bribe, hold no grudge, shill no scams. I shall wear no crowns and win no glory. I shall downbad and upgood at my post. I am the guide in the shitstorm. I am the watcher on the gov. I am the shield that guards the realms of Dot. I pledge my gains and honor to the Opengov.Watch, for this proposal and all the ones to come.
