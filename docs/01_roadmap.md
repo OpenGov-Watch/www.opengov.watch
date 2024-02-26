@@ -1,3 +1,6 @@
+---
+slug: /roadmap
+---
 # Roadmap
 We continously monitor Polkadot Governance and provide regular reports for interested parties. Our portfolio consists of:
 - weekly office hours (to get your questions answered)
