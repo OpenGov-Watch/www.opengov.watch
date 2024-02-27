@@ -18,6 +18,7 @@ Our planned timeline is as follows, but can be subject to change:
 | Name                                       | Target Date |
 |:-------------------------------------------|:------------|
 | [2024-02 Technical Fellowship Proceedings](https://forum.polkadot.network/t/technical-fellowship-opendev-call-2024-02-20/6355)   | 2024-02-20  |
+| [OpenGov Scraper](https://twitter.com/alice_und_bob/status/1762432031579922473)                | 2024-02-27  |
 | [Launch Bookable Calls](/booking)          | 2024-03-01  |
 | Launch Referenda Overviews                 | 2024-03-01  |
 | Launch Guides Section                      | 2024-03-08  |
