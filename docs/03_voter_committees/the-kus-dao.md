@@ -1,7 +1,7 @@
 # The Kus DAO
 
 ## Facts
-- Delegated DOT: ~26m DOT
+- Delegated DOT: ~2m DOT
 - Address: 15KHTWdJyzyxaQbBNRmQN89KmFr1jPXXsPHM5Rxvd1Tkb2XZ
 
 ## Description

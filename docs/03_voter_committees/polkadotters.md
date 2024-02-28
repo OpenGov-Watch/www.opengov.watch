@@ -1,7 +1,7 @@
 # Polkadotters
 
 ## Facts
-- Delegated DOT: ~30m DOT
+- Delegated DOT: ~6m DOT
 - Address: 12s6UMSSfE2bNxtYrJc6eeuZ7UxQnRpUzaAh1gPQrGNFnE8h
 
 ## Description

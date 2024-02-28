@@ -1,7 +1,7 @@
 # Saxemberg
 
 ## Facts
-- Delegated DOT: ~31m DOT
+- Delegated DOT: ~6m DOT
 - Address: 153YD8ZHD9dRh82U419bSCB5SzWhbdAFzjj4NtA5pMazR2yC
 
 ## Description

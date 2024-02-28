@@ -1,7 +1,7 @@
 # Polkaworld
 
 ## Facts
-- Delegated DOT: ~30m DOT
+- Delegated DOT: ~6m DOT
 - Address: 12mP4sjCfKbDyMRAEyLpkeHeoYtS5USY4x34n9NMwQrcEyoh
 
 ## Description
