@@ -1,3 +1,6 @@
+---
+slug: /decentralized-voices
+---
 # Decentralized Voices
 
 Decentralized voices is an initiative by the Web3 Foundation to strengthen discourse and support engaged members of the ecosystem by delegating additional voting power to them.

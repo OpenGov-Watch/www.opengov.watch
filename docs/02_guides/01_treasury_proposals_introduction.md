@@ -25,7 +25,7 @@ Spender tracks are for bigger asks, they can be utilized for various purposes su
 | Medium Spender | 100,000 DOT | 200 DOT | 28 Days | 4 Days |
 | Big Spender | 1,000,000 DOT | 400 DOT | 28 Days | 7 Days |
 
-:::info
+:::warning
 Be advised: Network participants can issue **cancellers** and **killers** if they think your proposal is harming the network. Although the concept of 'harm' is more relevant for tracks that deal with the main codebase of the network, users might also consider treasury proposals harmful if, for example, the proposer spams the referendum.
 
 - **Referendum Canceller** can cancel ongoing or upcoming referenda.
