@@ -8,4 +8,4 @@ Do you want to launch a referendum and have some unresolved questions? We are he
 
 Use this link: [Book a call](https://usemotion.com/meet/tommi-enenkel/polkadot)
 
-Please keep in mind that we do not make decisions about the outcome of OpenGov. This is decided by on-chain voting.
+Please keep in mind that we do not make decisions about the outcome of OpenGov. This is decided by on-chain voting
