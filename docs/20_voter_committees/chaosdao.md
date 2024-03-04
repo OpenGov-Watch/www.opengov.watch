@@ -12,4 +12,4 @@ Members of ChaosDAO can recommend new members to the DAO and the new membership 
 
 ## Links
 - Twitter: [@ChaosDAO](https://twitter.com/ChaosDAO)
-- Telegram: [ChaosDAO OpenGov Outreach] (https://t.me/ChaosDAO_OpenGov_Outreach)
+- Telegram: [ChaosDAO OpenGov Outreach](https://t.me/ChaosDAO_OpenGov_Outreach)
