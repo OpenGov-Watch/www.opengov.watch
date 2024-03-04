@@ -1,7 +1,7 @@
 # William
 
 ## Facts
-- Delegated DOT: ~30m DOT
+- Delegated DOT: ~6m DOT
 - Address: 1ZSPR3zNg5Po3obkhXTPR95DepNBzBZ3CyomHXGHK9Uvx6w
 
 ## Description

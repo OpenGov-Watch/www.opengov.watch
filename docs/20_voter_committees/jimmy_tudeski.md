@@ -1,7 +1,7 @@
 # Jimmy Tudeski
 
 ## Facts
-- Delegated DOT: ~30m DOT
+- Delegated DOT: ~6m DOT
 - Address: 1jPw3Qo72Ahn7Ynfg8kmYNLEPvHWHhPfPNgpJfp5bkLZdrF
 
 ## Description
