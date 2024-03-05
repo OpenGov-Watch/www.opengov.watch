@@ -28,7 +28,7 @@ This article highlights the current status of the developments.
 
 
 
-### Polkadot<->Kusama bridge
+### Polkadot-Kusama bridge
 - [XCM Activation proposal](https://polkadot.polkassembly.io/referenda/545)
 
 ### Async Backing
