@@ -2,7 +2,7 @@ import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
 
-# Polkadot 2.0 Roadmap
+# Polkadot Roadmap
 
 This article highlights the current status of the developments.
 
@@ -26,15 +26,20 @@ This article highlights the current status of the developments.
 
 [RFCs](https://github.com/polkadot-fellows/RFCs)
 
-## Async Backing
+
+
+### Polkadot<->Kusama bridge
+- [XCM Activation proposal](https://polkadot.polkassembly.io/referenda/545)
+
+### Async Backing
 - [What is it?](https://wiki.polkadot.network/docs/learn-async-backing)
 - Latest status: "speeding towards launch on Kusama" (Source: 14th Feb on the Forum [here](https://github.com/paritytech/polkadot-sdk/issues/3226))
 - Github [enablement checklist](https://github.com/paritytech/polkadot-sdk/issues/3226)
 
-## Dynamic Block Times
+### Dynamic Block Times
 - Preparations
   - [SDK Issue 3268](https://github.com/paritytech/polkadot-sdk/issues/3268)
   - [SDK PR 3298](https://github.com/paritytech/polkadot-sdk/pull/3298): Adding time as a primitive
 
-## CoreJam
+### CoreJam
 - [Draft](https://github.com/polkadot-fellows/RFCs/blob/006a9ff07c3d3bc5316c6bf63b05e966e694cc2d/text/corejam.md)
