@@ -12,4 +12,5 @@ As a DV delegate, he actively provides feedback on proposals as well as regularl
 
 ## Links
 - Twitter: [@kukabi_](https://twitter.com/kukabi_)
+- Twitter: [@helikonlabs](https://twitter.com/helikonlabs)
 - Telegram: [@kutsalkaan](https://t.me/kutsalkaan)
