@@ -10,3 +10,5 @@ Jimmy Tudeski is an active member in the Polkadot community who publish frequent
 
 ## Links
 - Twitter: [@stakenode_dev](https://twitter.com/stakenode_dev)
+- Telegram: [@stakenode_dev](https://t.me/stakenode_dev)
+- Polkadot Philosophy: [Twitter](https://twitter.com/dot_philosophy), [Medium](https://www.polkadotphilosophy.com/)
