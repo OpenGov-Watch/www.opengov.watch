@@ -10,5 +10,5 @@ Polkadotters are a group of Polkadot enthusiasts from Czechia have been building
 
 ## Links
 - Website: [polkadotters.com](https://polkadotters.com/)
-- [Medium](https://polkadotters.medium.com/)
+- Medium: [Polkadotters](https://polkadotters.medium.com/)
 - Twitter: [@Polkadotters1](https://twitter.com/Polkadotters1)
