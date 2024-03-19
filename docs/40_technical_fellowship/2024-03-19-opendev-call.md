@@ -1,5 +1,9 @@
 # 2024-03-19 Technical Fellowship OpenDev Call
 
+- [Watch the recording](https://www.youtube.com/watch?v=zSKiAE7fBPI)
+- [Notes on the Forum](https://forum.polkadot.network/t/2024-03-19-technical-fellowship-opendev-call/6901)
+- [Notes on Grill](https://grillapp.net/12859/2024-03-19-technical-fellowship-open-dev-call-100261?ref=8720)
+
 ## Fellowship Updates
 
 - New Members
