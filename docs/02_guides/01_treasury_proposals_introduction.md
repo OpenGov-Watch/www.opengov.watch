@@ -16,6 +16,7 @@ Spender tracks are for bigger asks, they can be utilized for various purposes su
 - **Small Spender** can spend up to 10,000 DOT.
 - **Medium Spender** can spend up to 100,000 DOT.
 - **Big Spender** can spend up to 1,000,000 DOT.
+- **Treasurer** can spend up to 10,000,000 DOT.
 
 | Origin | Spending Limits | Decision Deposit | Decision Period | Confirm Period |
 | --- | --- | --- | --- | --- |
@@ -24,6 +25,7 @@ Spender tracks are for bigger asks, they can be utilized for various purposes su
 | Small Spender | 10,000 DOT | 100 DOT | 28 Days | 2 Days |
 | Medium Spender | 100,000 DOT | 200 DOT | 28 Days | 4 Days |
 | Big Spender | 1,000,000 DOT | 400 DOT | 28 Days | 7 Days |
+| Treasurer | 10,000,000 DOT | 1000 DOT | 28 Days | 7 Days |
 
 :::warning
 Be advised: Network participants can issue **cancellers** and **killers** if they think your proposal is harming the network. Although the concept of 'harm' is more relevant for tracks that deal with the main codebase of the network, users might also consider treasury proposals harmful if, for example, the proposer spams the referendum.
