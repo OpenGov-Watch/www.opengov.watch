@@ -2,7 +2,7 @@
 
 OpenGov receives a number of proposals everyday, and people have limited time to evaluate these proposals. You should assume that most of the people will just briefly look at your proposal and decide instantly on their first impression. This is why it will be to your advantage to apply following order to your proposal.
 
-1. **An informative and to the point title:** be careful when selecting a title for your proposal. This will be the first thing that many people see when they look into your proposal. Don’t put vague titles. Your title should roughly explain what you are proposing.
+1. **An informative and to the point title:** Be careful when selecting a title for your proposal. This will be the first thing that many people see when they look into your proposal. Don’t put vague titles. Your title should roughly explain what you are proposing.
 2. **Start with an executive summary:** It is advised that you start to your proposal with a summary (one or two sentences) of what you are proposing.
 3. **Proof-of-Work:** Who are you? What are your former achievements. Briefly explain this in a paragraph after your summary.
 4. **Target:** What are you aiming to do? What are the intended outcomes? What are your performance indicators? Explain these in one or two paragraphs.

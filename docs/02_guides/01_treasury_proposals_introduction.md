@@ -1,4 +1,4 @@
-# Treasury Proposals: Introduction
+# Treasury Proposals: Tracks
 
 Network participants can request DOTs from the Polkadot Treasury via two main treasury tracks: tippers and spenders. 
 
