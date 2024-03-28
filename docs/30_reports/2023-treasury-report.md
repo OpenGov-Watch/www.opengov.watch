@@ -1,5 +1,7 @@
 # 2023 Polkadot Treasury Report
 
+![Polkadot Treasury Report](/img/2023-treasury-report/2023-polkadot-treasury-report.png)
+
 We present the latest Polkadot Treasury Report, concluding the year 2023. This report shows the Polkadot Treasury has spent DOT in 2023 and prior and breaks spending up into categories and subcategories to give a detailed look into how the Polkadot DAO is investing in research, development, operations, outreach, and HR.
 
 This report will give an overview of 2023 spending, and then dig down into analysis by quarters and by categories to give the reader a solid understanding of Polkadot’s past priorities. We express our gratitude to the Web3 Foundation for funding this report as part of the [OpenGov.Watch](http://OpenGov.Watch) initiative.
