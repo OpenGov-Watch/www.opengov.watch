@@ -5,7 +5,9 @@ slug: /decentralized-voices
 
 Decentralized voices is an initiative by the Web3 Foundation to strengthen discourse and support engaged members of the ecosystem by delegating additional voting power to them.
 
-The delegates of the first round ([announcement](https://medium.com/web3foundation/decentralized-voices-round-1-candidates-announced-23d9a800b260)) are listed below. You can reach them by following the links:
+ The delegates of the first round ([announcement](https://medium.com/web3foundation/decentralized-voices-round-1-candidates-announced-23d9a800b260)) are listed below.  
+ You can check out the data of DV voting behaviour on [Dune Dashboard](https://dune.com/substrate/polkadot-and-kusama-decentralized-voices).  
+ You can reach them by following the links:
 
 - [ChaosDAO](/voter_committees/chaosdao)
 - [Saxemberg](/voter_committees/saxemberg)
