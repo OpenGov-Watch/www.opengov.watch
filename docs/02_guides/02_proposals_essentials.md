@@ -1,4 +1,4 @@
-# Treasury Proposals: Essentials
+# Proposals: Essentials
 
 OpenGov receives a number of proposals everyday, and people have limited time to evaluate these proposals. You should assume that most of the people will just briefly look at your proposal and decide instantly on their first impression. This is why it will be to your advantage to apply following order to your proposal.
 

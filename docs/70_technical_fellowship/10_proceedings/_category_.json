@@ -1,0 +1,9 @@
+{
+    "label": "Proceedings",
+    "position": 70,
+    "link": {
+      "type": "generated-index",
+      "description": "-",
+      "slug": "fellowship_proceedings"
+    }
+  }
