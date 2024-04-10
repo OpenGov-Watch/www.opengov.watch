@@ -7,4 +7,4 @@ Look, we never promised that OpenGov is going to be fun. We only promised that i
 
 You can use it to keep eyes on everything or even start your own advanced data analytics. Enjoy!
 
-<big>[OPEN THE MASTERSHEET](https://docs.google.com/spreadsheets/d/1Sg7GZhUAc1L-6ty48vaToWaMnwdiF5xPjXpipNX3Kxg/edit#gid=0)</big>
+<big>[OPEN THE MASTERSHEET](https://docs.google.com/spreadsheets/d/1itB8Mj1zDoE1-94QZfKi_yPUnHqxyXOO-aOfA9tFeII/edit#gid=1063576069)</big>
