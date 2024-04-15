@@ -7,4 +7,4 @@ OpenGov advances at a pace that the regular observer can hardly follow. To make 
 
 You can use it to keep eyes on everything or even start your own advanced data analytics. Enjoy!
 
-<big>[OPEN THE MASTERSHEET](https://docs.google.com/spreadsheets/d/1itB8Mj1zDoE1-94QZfKi_yPUnHqxyXOO-aOfA9tFeII/edit#gid=1063576069)</big>
+<big>[OPEN THE MASTERSHEET](https://docs.google.com/spreadsheets/d/1itB8Mj1zDoE1-94QZfKi_yPUnHqxyXOO-aOfA9tFeII/edit#gid=1063576069)</big>git 
