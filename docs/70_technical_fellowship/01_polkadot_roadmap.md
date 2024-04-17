@@ -34,6 +34,8 @@ Some details:
 - dynamic block durations
 - burn coretime revenue, [RFC-10](https://polkadot-fellows.github.io/RFCs/approved/0010-burn-coretime-revenue.html)
 
+Video - [Donal Murray: Getting Started With Coretime](https://www.youtube.com/watch?v=ci-h9zC-57Y)
+
 ## JAM
 JAM is a candidate design for the engine powering Polkadot 2.0. Previously, Polkadot cores could only power parachains. With Polkadot 2.0, the range of 'constructs' that Polkadot can support becomes broader: Smart contracts, zero knowledge rollups, UTXO (Bitcoin-like) systems, etc.
 
