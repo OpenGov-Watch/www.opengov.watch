@@ -41,5 +41,5 @@ Be honest and transparent. Inform the community about potential delays or proble
 
 -------
 :::info
-This guide is inspired by and contains elements from Coinstudio's [7 Guidelines for a Successfull Proposal](https://docs.google.com/document/d/1CzEnurqwqLBOGrJI9CQORiGW9m6QyPOSshhzJdR57Pk/edit#heading=h.7fq1r3kiaao7) document.
+This guide is inspired by and contains elements from Coinstudio's [7 Guidelines for a Successful Proposal](https://docs.google.com/document/d/1CzEnurqwqLBOGrJI9CQORiGW9m6QyPOSshhzJdR57Pk/edit#heading=h.7fq1r3kiaao7) document.
 
