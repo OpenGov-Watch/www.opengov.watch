@@ -1,6 +1,15 @@
 # 2024 April Polkadot OpenGov Report
 ![](/img/2024-04-governance-report/shrimps.png)
 
+The latest episode of our monthly OpenGov report is here. We report on
+
+- Giotto pressing charges against Guppies
+- The new Wish-for-Change track and how it changes the power dynamics in OpenGov
+- The epic match for a certain sports sponsorship
+- and more…
+
+To receive future updates, [subscribe to our newsletter](https://www.polkalytics.io/).
+
 ## The Trial
 
 Anons on trial! Without a doubt, the biggest drama on OpenGov this month was Giotto [pressing charges](https://twitter.com/giottodf/status/1783283026019135668) for defamation and slander against a couple of anons on X and Telegram as well as the owner of the [Guppies](https://t.me/dotguppies) Telegram group.
@@ -24,6 +33,9 @@ The biggest turnout and the most violent swings happened on a [sports sponsorshi
 ## Alice in Chains
 
 [The Chainalysis referendum](https://polkadot.subsquare.io/referenda/684) seems like a good candidate to be the biggest drama of next month with another huge ask of $10 million for the integration of the Polkadot relay chain to their platform. It has been claimed that Chainalysis “[is a surveillance platform](https://twitter.com/saxemberg/status/1781546776702386393)” and its “close ties” with [intelligence agencies](https://twitter.com/TugyTur/status/1781740481749061635) around the world have been underlined by different ecosystem agents. A very [heated discussion](https://x.com/TheKusamarian/status/1783866123441656000) took place on AAG during the presentation by the Chainalysis team as well. With the big whales on the Aye side and most of the DV on the Nay side, we will be observing this referendum closely in its following stages.
+
+Make sure to not miss future updates, [subscribe to our newsletter](https://www.polkalytics.io/).
+
 
 ## Notable mentions
 
@@ -82,3 +94,4 @@ Here is a summary of our other activities this month:
 - Follow us on X: [@xcjeeper](https://twitter.com/xcjeeper) [@alice_und_bob](https://twitter.com/alice_und_bob)
 - Check out [OpenGov.Watch](https://www.opengov.watch/)
 - Find us on [Grill](https://grillapp.net/12859?ref=9409)
+- [Subscribe to our newsletter](https://www.polkalytics.io/) to receive monthly updates

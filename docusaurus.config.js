@@ -75,8 +75,8 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/OpenGov-Watch/www.opengov.watch',
-            label: 'GitHub',
+            href: 'https://www.polkalytics.io/',
+            label: 'Subscribe to our Newsletter',
             position: 'right',
           },
         ],
