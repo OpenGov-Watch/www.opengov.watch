@@ -1,4 +1,4 @@
-# 2024 March OpenGov Report
+# 2024 March Polkadot OpenGov Report
 
 ![dedwhale.png](/img/2024-03-governance-report/dedwhale.png)
 

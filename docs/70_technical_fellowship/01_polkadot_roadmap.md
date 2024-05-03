@@ -27,14 +27,16 @@ Here is a quick primer on what Agile Coretime will focus on:
 Some details:
 - defined in [RFC-1](https://polkadot-fellows.github.io/RFCs/approved/0001-agile-coretime.html), specifics in [RFC-5](https://polkadot-fellows.github.io/RFCs/approved/0005-coretime-interface.html)
 - async backing
-- elastic scaling
+- elastic scaling ([Wiki](https://wiki.polkadot.network/docs/learn-elastic-scaling), [Forum](https://forum.polkadot.network/t/elastic-scaling/7185))
 - bulk coretime
 - on-demand coretime
 - coretime chain
 - dynamic block durations
 - burn coretime revenue, [RFC-10](https://polkadot-fellows.github.io/RFCs/approved/0010-burn-coretime-revenue.html)
 
-Video - [Donal Murray: Getting Started With Coretime](https://www.youtube.com/watch?v=ci-h9zC-57Y)
+Further reading:
+- Video - [Donal Murray: Getting Started With Coretime](https://www.youtube.com/watch?v=ci-h9zC-57Y)
+- [FAQ](https://polkadot-public.notion.site/Agile-Coretime-FAQ-c930796e8c884011adb1fa24ef22f77c)
 
 ## JAM
 JAM is a candidate design for the engine powering Polkadot 2.0. Previously, Polkadot cores could only power parachains. With Polkadot 2.0, the range of 'constructs' that Polkadot can support becomes broader: Smart contracts, zero knowledge rollups, UTXO (Bitcoin-like) systems, etc.
