@@ -1,7 +1,4 @@
----
-slug: /decentralized-voices
----
-# Reach: Decentralized Voices
+# Decentralized Voices
 
 Decentralized Voices is an initiative by the Web3 Foundation to strengthen discourse and support engaged members of the ecosystem by delegating additional voting power to them.
 
@@ -9,8 +6,8 @@ Decentralized Voices is an initiative by the Web3 Foundation to strengthen disco
  You can check out the data of DV voting behaviour on [Dune Dashboard](https://dune.com/substrate/polkadot-and-kusama-decentralized-voices).  
  You can reach them by following the links:
 
-- [ChaosDAO](/voter_committees/chaosdao)
-- [Saxemberg](/voter_committees/saxemberg)
+- [ChaosDAO](/voters/chaosdao)
+- [Saxemberg](/voters/saxemberg)
 - Jimmy Tudeski  
   Address: 1jPw3Qo72Ahn7Ynfg8kmYNLEPvHWHhPfPNgpJfp5bkLZdrF  
   Twitter: [@stakenode_dev](https://twitter.com/stakenode_dev)  
