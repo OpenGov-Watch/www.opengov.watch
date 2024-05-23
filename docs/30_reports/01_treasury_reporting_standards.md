@@ -1,6 +1,17 @@
-# Polkadot Spending Reporting Standards
+# Polkadot Treasury Reporting Standards
 
-The standards suggested in this article have been developed over the last year through the creation of several budget reports. Via a [discussion post on the Polkadot forum](https://forum.polkadot.network/t/polkadot-spending-reporting-standards/7141), the categories got refined. This page holds the latest version that will be used for future reports from us.
+## Income Statement
+- Revenue
+- Expenses
+
+### Revenue
+- Inflation
+- Slashes
+- Fees
+- Transfers
+
+### Expenses
+The categories described in this chapter have been developed over the last year through the creation of several budget reports. Via a [discussion post on the Polkadot forum](https://forum.polkadot.network/t/polkadot-spending-reporting-standards/7141), the categories got refined. This page holds the latest version that will be used for future reports from us.
 
 1. **Research:** Protocol research, reports, and analytics, UX & DX, scam prevention, audits (security, QA)
 2. **Development:**
@@ -17,5 +28,17 @@ The standards suggested in this article have been developed over the last year t
 5. **Talent & Education:** education, hackathons, recruiting, talent incubation (e.g. PBA)
 6. **Economy:** Loans, Liquidity Incentives, Active Asset Swaps
 
+## Balance Sheet
+
+### Loans and Bounties
+- List of loans given out to protocols. Repayment plan. Risk statement. Link to referenda.
+- List of bounties. Current balance. Monthly outflow. Link to referenda.
+
+### Multi-Asset Treasury
+- Holdings of assets over different parachains
+
+## Segment Reporting
+- Spending for the core protocol
+- Spending for OpenGov
 
 Latest Update: 2024-05-23
