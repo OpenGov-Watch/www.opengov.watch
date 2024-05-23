@@ -16,7 +16,7 @@ Goals:
     - to break up big projects into smaller milestones
 - allow auditors
     - to work efficiently
-    - to report budgetary spending as per the [Budget Reporting Standards](https://forum.polkadot.network/t/polkadot-spending-reporting-standards/7141/3)
+    - to report budgetary spending as per the [Spending Reporting Standards](/reports/spending_reporting_standards)
 
 ## Basic Accountability Checklist
 
