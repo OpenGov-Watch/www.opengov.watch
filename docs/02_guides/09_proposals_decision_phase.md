@@ -1,18 +1,18 @@
 # Decision Phase
 
+## Submit proposal on-chain
+- There are [multiple ways](https://wiki.polkadot.network/docs/learn-guides-polkadot-opengov#create-a-referenda-proposal) to submit your proposal on chain. The easiest way would be using [Polkassembly UI](https://polkadot.polkassembly.io/opengov) for non-technical users.
+- You will need to place a decision deposit in order for your proposal to be enacted. The size of the decision deposit is dependent on the track. Check the [tracks](#proposal-tracks) chapter on this page for details. Proposals without decision deposits will time out on OpenGov.
+- Continue staying engaged in [discussions and campaigning](/guides/discussion_campaining) during the whole decision phase.
+- Suggestion: Publish your proposal as permanent PDF document that cant be changed. You can use [Crust Files](https://crustfiles.io/) to keep your documents on IPFS.
+
 ## Before Submission
 - Do a last pass over your proposal and check if the introductory parts make sense for someone completely new to the project. 
 - Make a last check on the discussion channels to make sure there are no open questions before submitting the proposal.
 
-## 1. Submit proposal on-chain
-- There are [multiple ways](https://wiki.polkadot.network/docs/learn-guides-polkadot-opengov#create-a-referenda-proposal) to submit your proposal on chain. The easiest way would be using [Polkassembly UI](https://polkadot.polkassembly.io/opengov) for non-technical users.
-- You will need to place a decision deposit in order for your proposal to be enacted. You can see the related decision deposits from [Tracks Guide](https://www.opengov.watch/guides/proposals_tracks). Proposals without decision deposits will be failed on OpenGov.
-- Stay engaged with the community. Try to answer all the questions and address all the concerns in the proposal topic.
-- Suggestion: Publish your proposal as permanent PDF document that cant be changed. You can use [Crust Files](https://crustfiles.io/) to keep your documents on IPFS.
-
 ## Proposal Tracks
 
-Network participants can request DOTs from the Polkadot Treasury via multiple treasury tracks that are logically split into tippers and spenders. 
+Network participants can request DOTs from the Polkadot Treasury via multiple treasury tracks that are logically split into tippers and spenders. You can learn more about tracks in the Polkadot Wiki: [Polkadot OpenGov Origins](https://wiki.polkadot.network/docs/learn-polkadot-opengov-origins)
 
 ### Tippers
 
@@ -45,10 +45,3 @@ Be advised: Network participants can issue **cancellers** and **killers** if the
 - **Referendum Canceller** can cancel ongoing or upcoming referenda.
 - **Referendum Killer** can cancel an ongoing referenda and also slash the deposits.
 :::
-
-### More Info
-- https://wiki.polkadot.network/docs/learn-polkadot-opengov
-- https://wiki.polkadot.network/docs/learn-polkadot-opengov-origins
-
-
-

@@ -1,5 +1,4 @@
 - Video: https://www.youtube.com/watch?v=War1weBu7yU
-- Previous: https://forum.polkadot.network/t/2024-04-23-technical-fellowship-opendev-call/7592
 - Forum: https://forum.polkadot.network/t/2024-05-21-technical-fellowship-opendev-call/8264
 
 # Fellowship
@@ -36,7 +35,7 @@ Launched on Kusama. Deposits are now ~0.06 KSM. Identities no longer sit on the 
 - Fix is part of 1.2.4
 - Example UI: https://rococo-app.snowbridge.network/
 
-### P<>K
+### P\<\>K
 
 - [Launched](https://forum.polkadot.network/t/polkadot-kusama-bridge/2971/25?u=alice_und_bob)
 - [but got stuck](https://forum.polkadot.network/t/polkadot-kusama-bridge/2971/45?u=alice_und_bob). An unexpected edge case in the collator set change of Kusama has led Polkadot to no longer accept messages.

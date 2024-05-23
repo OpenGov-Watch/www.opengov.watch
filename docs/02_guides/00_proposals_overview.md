@@ -43,6 +43,7 @@ Situations for proactive proposals:
 
 
 ## Tips
+- Read the [OpenGov primer](https://wiki.polkadot.network/docs/learn-polkadot-opengov) in the Polkadot Wiki
 - Clear, open and transparent proposals will increase your chance to win community approval.
 - Proposals are based on trust that promised work will be delivered. If you are new, consider starting with the smaller proposals to prove your ability to deliver on time and budget.
 - The first proposal or initial milestone should be as small as possible.

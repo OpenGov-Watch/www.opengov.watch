@@ -29,7 +29,7 @@ Promotions to 1 Dan:
 - BEEFY activated
 - BridgeHub: Polkadot↔Kusama bridge is live
     - can now provide USDC into Kusama, USDT in the future
-    - so far only one lane is live (Polkadot AssetHub <-> Kusama AssetHub), some configuration change is needed to allow additional lanes
+    - so far only one lane is live (Polkadot AssetHub \<\> Kusama AssetHub), some configuration change is needed to allow additional lanes
     - sending XCM messages is only through established lanes, they essentially act like port cities to another continent. It is theoretically possible to wrap an XCM message, send it to AssetHub Kusama, from there to AssetHub Polkadot, and from there to the final destination
     - parachains already expressed interest in opening lanes
     - wallet integrations in 1-4 weeks
