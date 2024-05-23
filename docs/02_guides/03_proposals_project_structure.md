@@ -1,8 +1,19 @@
-# Structure your Project
+# HowTo: Write a proposal
 
-Every project is different and often requires a unique project plan. At the same time, OpenGov needs to be able to judge projects quickly and accurately. There we have developed certain convention for how a good project proposal should be structured. This article will provide you with guidance on how to best write a proposal. Copy the parts that make sense for your project.
+Every proposal is different and often requires a unique project plan. At the same time, OpenGov needs to be able to judge proposals quickly and accurately. The community has developed certain conventions for how a good project proposal should be structured. This article will provide you with guidance on how to best write a proposal. Copy the parts that make sense for your project.
 
-## Overview: Milestones, Timeline, Budget
+
+## Getting started
+- Check out the [Proposals Overview](https://www.opengov.watch/guides/proposals_overview) before preparing your draft.
+- Check out the [Tracks Guide](https://www.opengov.watch/guides/proposals_tracks) to decide which treasury track is fitting for your proposal.
+
+
+:::info
+You can modify the [generic treasury proposal template](https://docs.google.com/document/d/1O_84mXYFERCavmnJyxbIPKFkG0bVBySRjCVy-d-VKcc/edit) to prepare your proposal. However, keep in mind that a long and extremely detailed proposal might not be for your best advantage especially when the scope of your idea is not very wide.
+:::
+
+## Scope
+## Execution: Milestones, Timeline, Budget
 Three essential components for communicating your project is milestones, timeline, and budget.
 - **Milestones:** For projects that span longer than just a weeks, it typically makes sense to structure them into milestones. This can either be iterate feature/content milestones or follow the [waterfall model](https://en.wikipedia.org/wiki/Waterfall_model)
 - **Timeline:** What is the timeline for the project and the milestones. When is the final delivery expected?

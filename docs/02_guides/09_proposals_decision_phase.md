@@ -1,15 +1,27 @@
-# Proposals: Tracks
+# Decision Phase
 
-Network participants can request DOTs from the Polkadot Treasury via two main treasury tracks: tippers and spenders. 
+## Before Submission
+- Do a last pass over your proposal and check if the introductory parts make sense for someone completely new to the project. 
+- Make a last check on the discussion channels to make sure there are no open questions before submitting the proposal.
 
-## Tippers
+## 1. Submit proposal on-chain
+- There are [multiple ways](https://wiki.polkadot.network/docs/learn-guides-polkadot-opengov#create-a-referenda-proposal) to submit your proposal on chain. The easiest way would be using [Polkassembly UI](https://polkadot.polkassembly.io/opengov) for non-technical users.
+- You will need to place a decision deposit in order for your proposal to be enacted. You can see the related decision deposits from [Tracks Guide](https://www.opengov.watch/guides/proposals_tracks). Proposals without decision deposits will be failed on OpenGov.
+- Stay engaged with the community. Try to answer all the questions and address all the concerns in the proposal topic.
+- Suggestion: Publish your proposal as permanent PDF document that cant be changed. You can use [Crust Files](https://crustfiles.io/) to keep your documents on IPFS.
+
+## Proposal Tracks
+
+Network participants can request DOTs from the Polkadot Treasury via multiple treasury tracks that are logically split into tippers and spenders. 
+
+### Tippers
 
 Tipper tracks have short timeframes for decision and confirmation periods, small deposits to be put by the proposers, and small spending limits. Tippers are a good start to getting familiar with the treasury, asking for retroactive funding for contributions to the Polkadot ecosystem, and building up a reputation in the network.
 
 - **Small Tipper** can spend up to 250 DOT.
 - **Big Tipper** can spend up to 1,000 DOT.
 
-## Spenders
+### Spenders
 
 Spender tracks are for bigger asks, they can be utilized for various purposes such as recurrent services to the network, development of new features, big events, and long-term campaigns. Starting your OpenGov journey with a spender could be challenging as the network participants are more conservative and cautious with bigger asks.
 
@@ -34,6 +46,9 @@ Be advised: Network participants can issue **cancellers** and **killers** if the
 - **Referendum Killer** can cancel an ongoing referenda and also slash the deposits.
 :::
 
-## More Info
+### More Info
 - https://wiki.polkadot.network/docs/learn-polkadot-opengov
 - https://wiki.polkadot.network/docs/learn-polkadot-opengov-origins
+
+
+
