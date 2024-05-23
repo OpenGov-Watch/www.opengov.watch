@@ -3,7 +3,7 @@
 ## Submit proposal on-chain
 - There are [multiple ways](https://wiki.polkadot.network/docs/learn-guides-polkadot-opengov#create-a-referenda-proposal) to submit your proposal on chain. The easiest way would be using [Polkassembly UI](https://polkadot.polkassembly.io/opengov) for non-technical users.
 - You will need to place a decision deposit in order for your proposal to be enacted. The size of the decision deposit is dependent on the track. Check the [tracks](#proposal-tracks) chapter on this page for details. Proposals without decision deposits will time out on OpenGov.
-- Continue staying engaged in [discussions and campaigning](/guides/discussion_campaining) during the whole decision phase.
+- Continue staying engaged in [discussions and campaigning](/guides/discussion_and_campaigning) during the whole decision phase.
 - Suggestion: Publish your proposal as permanent PDF document that cant be changed. You can use [Crust Files](https://crustfiles.io/) to keep your documents on IPFS.
 
 ## Before Submission
