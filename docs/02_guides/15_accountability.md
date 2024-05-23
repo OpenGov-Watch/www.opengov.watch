@@ -106,7 +106,7 @@ For "Spender" proposals (proposals above 10k DOT), we suggest to use the followi
     - **Raw Audience Data** with views and watch hours, other engagement data ([example](https://docs.google.com/spreadsheets/d/1kWP_lDENeFQHM5Yo3fksJ77wnvYXr43GbwhwcvcQZeg/edit#gid=1021750851))
     - **Spending Report**, balance sheets etc… ([example](https://docs.google.com/spreadsheets/d/1PJq7Ji83Imn4oCgX2HQwM0bl9-F8oIJcu1GmZCNo0mc/edit#gid=455286747))
     - **Invoices**, receipts ([example](https://drive.google.com/drive/folders/1InVpufZFcaEt7tE012mcvkdjV5v0IDv9), [example from CultureDOT](https://drive.google.com/drive/folders/1KUoCwxXZ20MzvBPfwq9xZEumOqcwuKQx))
-    - **Treasury Movements** ([example](https://www.notion.so/de4afb47625d48a9b4a5f0e74d074dff?pvs=21))
+    - **Treasury Movements** ([example](https://www.notion.so/de4afb47625d48a9b4a5f0e74d074dff?pvs=21) - Notion page, need to be logged in)
 - **Qualitative value proposition**
   - Which audience is targeted?
   - Conversion target?
