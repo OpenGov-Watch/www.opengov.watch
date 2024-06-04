@@ -69,3 +69,10 @@ The technical upgrades accepted on the WFC track also create an interesting dile
 
 - Polkadot 2.0 [definition proposal](https://polkadot.polkassembly.io/referenda/747) on the wish for change track is close to a conclusion with a more than 70% approval rate. With this referendum, the community decides on the [features to be included](https://x.com/alice_und_bob/status/1788127462389391812) in the ‘Polkadot 2.0’ upgrade. It will take back control of the narrative from random influencers who use different definitions and help unify a concrete roadmap [before Jam](https://polkadot.subsquare.io/referenda/682).
 - We have released an [accountability checklist](https://www.opengov.watch/guides/accountability) which we prepared for a preliminary framework for an audit initiative. The initiative's motivation includes providing voters with the necessary tools to make informed decisions. It ensures proposers thoroughly consider their proposals, aligns with OpenGov’s preferences for open-source deliverables, transparency, and responsible fund usage, and breaks large projects into smaller milestones.
+
+### Follow OpenGov.Watch
+
+- Follow us on X: [@xcjeeper](https://twitter.com/xcjeeper) [@alice_und_bob](https://twitter.com/alice_und_bob)
+- Check out [OpenGov.Watch](https://www.opengov.watch/)
+- Find us on [Grill](https://grillapp.net/12859?ref=9409)
+- [Subscribe to our newsletter](https://www.polkalytics.io/) to receive monthly updates

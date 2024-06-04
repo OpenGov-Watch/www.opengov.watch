@@ -62,34 +62,9 @@ Our next step will be to help with the implementation of those objectives throug
 
 Read the full strategy here: [Polkadot 2.0 Strategy](https://opengovwatch.notion.site/Polkadot-2-0-Strategy-264b338f38184248acbf630879f8386f?pvs=74)
 
-### What else?
+Check out OpenGov.Watch [April Performance Summary](https://www.opengov.watch/blog/2024/05/03/2024-april-report)
 
-Here is a summary of our other activities this month:
-
-- New [OpenGov.Watch](http://OpenGov.Watch) Infodesk Guide: How to “[Prepare and Submit](https://www.opengov.watch/guides/proposals_prepare_submit)” a proposal
-- Activism
-    - Spreading awareness for the new spend() extrinsic via [Ref 708](https://polkadot.subsquare.io/referenda/708)
-- Monitoring
-    - Added [Treasury](https://docs.google.com/spreadsheets/d/1itB8Mj1zDoE1-94QZfKi_yPUnHqxyXOO-aOfA9tFeII/edit#gid=386637000) Monitoring sheet
-    - Added [Bounties](https://docs.google.com/spreadsheets/d/1itB8Mj1zDoE1-94QZfKi_yPUnHqxyXOO-aOfA9tFeII/edit#gid=1976913229) overview
-- Technical Fellowship
-    - 2024-04-23 Technical Fellowship OpenDev Call
-        - [Report](https://forum.polkadot.network/t/2024-04-23-technical-fellowship-opendev-call/7592)
-        - [Recording](https://www.youtube.com/watch?v=n6U-UbX546E)
-- 15 Bookable Calls
-    - 10 calls with teams seeking consultation to submit proposals to OpenGov or other support
-    - 4 calls with ecosystem agents to coordinate activities
-    - 1 call with Cardano Governance participants for cross-ecosystem collaboration
-- AAG participation
-    - [2024-04-11](https://www.youtube.com/watch?v=KlHH7Dskrg4)
-    - [2024-04-25](https://www.youtube.com/watch?v=zWu7ZBDzl_Q)
-- OpenGov.Watch Office Hours
-    - [2024-04-09](https://twitter.com/i/spaces/1BRJjPLbqLZKw)
-    - [2024-04-16](https://twitter.com/i/spaces/1jMJgmqnEWPKL)
-    - [2024-04-23](https://twitter.com/i/spaces/1mrxmynWmOWxy)
-    - [2024-04-30](https://twitter.com/i/spaces/1LyxBnyEXVExN)
-
-## Stay in the Loop
+### Follow OpenGov.Watch
 
 - Follow us on X: [@xcjeeper](https://twitter.com/xcjeeper) [@alice_und_bob](https://twitter.com/alice_und_bob)
 - Check out [OpenGov.Watch](https://www.opengov.watch/)
