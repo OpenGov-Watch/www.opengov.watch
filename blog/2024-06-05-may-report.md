@@ -13,6 +13,9 @@ Looking forward, June will be a budget month for us and we will analyze the spen
 
 ## Our Deliverables
 
+- Presentations at PBA5 in Singapore
+    - "Introduction to OpenGov" lecture
+    - Led a Governance Challenge workshop
 - Governance Initiative: User Experience
     - [Summary](https://www.notion.so/User-Experience-953ea66a953f45fa9aea093349e631fe?pvs=21)
     - [Forum Post](https://forum.polkadot.network/t/ux-efforts-in-the-ecosystem/8469)
