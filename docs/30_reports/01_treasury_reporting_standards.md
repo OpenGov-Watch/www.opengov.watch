@@ -21,7 +21,7 @@ The categories described in this chapter have been developed over the last year 
    - the network: RPCs, archive nodes
    - auxiliary services: explorers, indexers
    - legal costs (foundations)
-4. **Outreach (Marketing, BD, community development):**
+4. **Outreach (Marketing, BD, Community Development):**
    * **Marketing:** media production, PR, advertising
    * **Business development:** consulting, solution architecture
    * **Community development:** conference hosting, conference attendance, local outreach, events, community building, ambassador program
@@ -34,11 +34,15 @@ The categories described in this chapter have been developed over the last year 
 - List of loans given out to protocols. Repayment plan. Risk statement. Link to referenda.
 - List of bounties. Current balance. Monthly outflow. Link to referenda.
 
-### Multi-Asset Treasury
-- Holdings of assets over different parachains
+### Assets
+- Holdings of assets over different chains
+- Holdings of different assets (DOT, USDT, USDC, etc)
 
 ## Segment Reporting
-- Spending for the core protocol
-- Spending for OpenGov
-
-Latest Update: 2024-05-23
+Spending for
+- Core protocol
+- OpenGov
+- UX
+- DevEx
+ 
+Latest Update: 2024-06-06
