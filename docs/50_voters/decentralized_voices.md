@@ -6,28 +6,39 @@ Decentralized Voices is an initiative by the Web3 Foundation to strengthen disco
  You can check out the data of DV voting behaviour on [Dune Dashboard](https://dune.com/substrate/polkadot-and-kusama-decentralized-voices).  
  You can reach them by following the links:
 
-- [ChaosDAO](/voters/chaosdao)
-- [Saxemberg](/voters/saxemberg)
-- Jimmy Tudeski  
-  Address: 1jPw3Qo72Ahn7Ynfg8kmYNLEPvHWHhPfPNgpJfp5bkLZdrF  
-  Twitter: [@stakenode_dev](https://twitter.com/stakenode_dev)  
-  Telegram: [@stakenode_dev](https://t.me/stakenode_dev)  
-  Polkadot Philosophy: [Twitter](https://twitter.com/dot_philosophy), [Medium](https://www.polkadotphilosophy.com/)
-- Kukabi  
-  Address: 15fTH34bbKGMUjF1bLmTqxPYgpg481imThwhWcQfCyktyBzL  
-  Twitter: [@kukabi_](https://twitter.com/kukabi_)  
-  Telegram: [@kutsalkaan](https://t.me/kutsalkaan)  
-  Helikon Labs: [Twitter](https://twitter.com/helikonlabs)
-- Polkadotters  
-  Address: 12s6UMSSfE2bNxtYrJc6eeuZ7UxQnRpUzaAh1gPQrGNFnE8h  
-  Website: [polkadotters.com](https://polkadotters.com/)  
-  Medium: [Polkadotters](https://polkadotters.medium.com/)  
-  Twitter: [@Polkadotters1](https://twitter.com/Polkadotters1)
-- Polkaworld  
-  Address: 12mP4sjCfKbDyMRAEyLpkeHeoYtS5USY4x34n9NMwQrcEyoh  
-  Twitter: [@polkaworld_org](https://twitter.com/polkaworld_org)  
-  Telegram: [Polkaworld_Open_Group](https://t.me/DVpolkaworld)
-- William  
-  Address: 1ZSPR3zNg5Po3obkhXTPR95DepNBzBZ3CyomHXGHK9Uvx6w  
-  Twitter: [@replghost](https://twitter.com/replghost)  
-  Telegram: [@replghost](https://t.me/replghost)
+- Name
+  - Address
+  - Twitter
+  - Telegram
+  - Philosophy/Position/Manifesto
+
+- BRA_16 Collective
+  - [Application](https://forum.polkadot.network/t/decentralized-voices-cohort-2-bra-16-d-community/7874)
+  - [Twitter](https://x.com/Bra16Dot)
+- ChaosDAO
+  - [Application](https://forum.polkadot.network/t/decentralized-voices-program-chaosdao/6138)
+  - [Twitter](https://x.com/ChaosDAO)
+- Ezio Rojas
+  - [Application](https://forum.polkadot.network/t/candidacy-for-dv-delegate-ezio-rojas/7643)
+  - [Twitter](https://x.com/EzioRed)
+- Irina Karagyaur
+  - [Application](https://forum.polkadot.network/t/irina-karagyaur-outline-of-qualifications-and-political-philosophy-for-decentralized-voices-cohort-2/7747?u=irina.karagyaur)
+  - [Twitter](https://x.com/IrinaKaragyaur)
+- Lucky Friday Labs
+  - [Application](https://forum.polkadot.network/t/decentralized-voices-cohort-2-lucky-friday/8084?u=thephunky1)
+  - [Twitter](https://x.com/LuckyFridayLabs)
+- Mexican Collective
+  - [Application](https://forum.polkadot.network/t/decentralized-voices-cohort-2-the-mexican-collective/7857?u=polkadotmexico)
+  - [Twitter](https://x.com/PolkadotMexico_)
+- Oneblock+
+  - [Application](https://forum.polkadot.network/t/decentralized-voices-cohort-2-oneblock/8241)
+  - [Twitter](https://x.com/OneBlock_)
+- Polkassembly
+  - [Application](https://forum.polkadot.network/t/decentralized-voices-cohort-2-polkassembly/7828)
+  - [Twitter](https://x.com/polk_gov)
+- Saxemberg
+  - [Application](https://forum.polkadot.network/t/decentralized-voices-cohort-2-saxemberg/7826)
+  - [Twitter](https://x.com/saxemberg)
+- Scytale Digital
+  - [Application](https://forum.polkadot.network/t/decentralized-voices-cohort-2-scytale-digital/8459)
+  - [Twitter](https://x.com/scytaledigital)
