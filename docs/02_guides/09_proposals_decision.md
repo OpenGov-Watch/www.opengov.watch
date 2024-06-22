@@ -1,4 +1,4 @@
-# Decision Phase
+# Proposals: Decision Phase
 
 ## Submit proposal on-chain
 - There are [multiple ways](https://wiki.polkadot.network/docs/learn-guides-polkadot-opengov#create-a-referenda-proposal) to submit your proposal on chain. The easiest way would be using [Polkassembly UI](https://polkadot.polkassembly.io/opengov) for non-technical users.
