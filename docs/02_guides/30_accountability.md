@@ -1,4 +1,4 @@
-# Accountability
+# Accountability Checklist
 
 Accountability ensures that the community has the means to follow progress and hold proposers accountable.
 
