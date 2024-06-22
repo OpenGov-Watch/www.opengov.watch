@@ -2,15 +2,9 @@
 
 Decentralized Voices is an initiative by the Web3 Foundation to strengthen discourse and support engaged members of the ecosystem by delegating additional voting power to them.
 
- The delegates of the first round ([announcement](https://medium.com/web3foundation/decentralized-voices-round-1-candidates-announced-23d9a800b260)) are listed below.  
+ The delegates of the second round ([announcement](https://medium.com/web3foundation/decentralized-voices-cohort-2-b10ddb7c71cc)) are listed below.  
  You can check out the data of DV voting behaviour on [Dune Dashboard](https://dune.com/substrate/polkadot-and-kusama-decentralized-voices).  
  You can reach them by following the links:
-
-- Name
-  - Address
-  - Twitter
-  - Telegram
-  - Philosophy/Position/Manifesto
 
 - BRA_16 Collective
   - [Application](https://forum.polkadot.network/t/decentralized-voices-cohort-2-bra-16-d-community/7874)
