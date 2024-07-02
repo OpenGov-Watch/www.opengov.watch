@@ -1,0 +1,45 @@
+# 2024 June Polkadot OpenGov Report
+
+![](/img/2024-06-governance-report/jeeper_gov_report_june.png)
+
+June was a relatively calm month for OpenGov and mostly drama-free with some minor exceptions. As OpenGov.Watch, we were mainly busy with the accounting of the Polkadot Treasury and preparing the [budget report](https://www.opengov.watch/reports/03_2024-treasury-report-h1), which we released at the end of the month.
+
+Next to the Head Ambassador elections which get a lot of attention, there is also a big discussion around the [future economics](https://forum.polkadot.network/t/polkadots-economics-tools-to-shape-the-forseeable-future) of Polkadot. [RFC 89](https://github.com/polkadot-fellows/RFCs/pull/89/files) suggests letting OpenGov decide on inflation parameters and how inflation shall be distributed. This is complemented by ongoing work to implement [Optimistic Project Funding](https://polkadot.subsquare.io/referenda/712), which is a new, more dynamic, and less bureaucratic way of distributing Treasury funds to projects that the token holders approve of.
+
+The governance report for June covers newly elected ambassadors and the ongoing elections, the discussion on established social contracts over sports sponsorships, and updates on some bounties.
+
+## Budget Report
+
+We released the [2024-H1 Polkadot Treasury Report](https://www.opengov.watch/reports/03_2024-treasury-report-h1) on the last weekend of the month. This report gives an analysis of Treasury income and spending during the first half of 2024, and the balance sheet of the treasury, which is getting increasingly harder to track among different chains and currencies the Treasury holds. Different than our [previous reports](https://www.opengov.watch/reports/02_2023-treasury-report), this one is bigger in scope as it includes revenue streams as well as capturing the loans and spending through the bounties.
+
+It should be noted that the spends on the report are based on the time of the spending, not execution. And some spends are long term, so we will see their impact in the following months. But there is also a fact that the treasury is spending at a much faster pace than it replenishes. Whether it is changing the inflation parameters, or cutting spending on certain categories, there is one thing that our report shows is that *something* needs to change. What to be done of course will be decided by the will of token holders.
+
+## Ambassador Elections
+
+One of the reasons that June started calmly is ongoing applications to the ambassador program. Most of the network participants were very understanding and polite to each other. Some of the applications have already been concluded with [Leemo](https://polkadot.subsquare.io/referenda/859), [Irina Karagyaur](https://polkadot.subsquare.io/referenda/864), [Alice und Bob](https://polkadot.subsquare.io/referenda/869), [David Pethes (six)](https://polkadot.subsquare.io/referenda/858), and [Michiko Watanabe](https://polkadot.subsquare.io/referenda/871) being the first elected ambassadors of Polkadot. There are still several applications on the line as the relevant track is clogged to fill the remaining slots of ambassadors, which will eventually reach the number of 21. There are no formal job descriptions for the new ambassadors but their posts are not completely secured and can be revoked with an OpenGov vote at any time. The ambassadors will be incentivized $10k per month from the treasury for their activities as long as they remain in their positions.
+
+There was also a [strange referendum](https://polkadot.subsquare.io/referenda/912) posted on the small tipper track about ambassador applications. Since the ambassador application requires a 5k DOT deposit on the Fellowship Admin track, this referendum demanded full disclosure from ambassadors for their decision deposit supporters (which is available on-chain). This referendum was canceled due to its use of the wrong track. Although in this case, it was only a canceler, we must remind that continued misuse of tracks might end up with a referendum killer which slashes the deposit placed by the proposer.
+
+If you are considering applying as an ambassador, you can consult [this detailed guide](https://hackmd.io/cZzY36fjTwm7yWkLGIIs_A) as well as [this infographic](https://x.com/dotgraphic1/status/1806427674543608295) to understand the application process.
+
+## Inter Miami vs Inter Milan
+
+While the Inter Miami sponsorship deal is yet to be concluded, there was a new football [sponsorship proposal](https://polkadot.polkassembly.io/referenda/866) on the Treasurer track for a sponsorship deal with the Inter Milan football team. Simultaneously, a [proposal posted](https://polkadot.subsquare.io/referenda/867) on the Wish for Change track requested that the Inter Miami funds be kept on the multisig until the network decides which sponsorship proposal to continue.
+
+The two new proposals quickly escalated into a [heated debate](https://www.youtube.com/live/riF3cdBEVAU?si=4JF1vqsvHhMQDmdu&t=3076) within the community. While some people suggested the new proposal has better terms, the consensus among network participants was to honor the previously made social contract with the Inter Miami proposal. Consequently, the new proposals were withdrawn quickly and the situation was quickly resolved with a decision to continue with the existing deal, which is currently [requesting a top-up](https://polkadot.subsquare.io/referenda/895) due to the DOT price difference with the initial proposal.
+
+To prevent such future events. We think a request for proposal processes [should be established](https://x.com/alice_und_bob/status/1801525760970067998) for big initiatives to increase the negotiating power of OpenGov and enable voting between competing proposals.
+
+## Notable Mentions
+
+- **Stabilizing Top-ups:** Recent market conditions resulted in several proposals requesting a top-up like the above-mentioned. We [think establishing a standard](https://x.com/alice_und_bob/status/1807469522393419947) about this and allowing proposers to only request top-ups in stablecoins would make sense in preventing overpayments in the future.
+- **UX Initiative:** The [referendum for UX Bounty](https://polkadot.subsquare.io/referenda/819) has recently been accepted and is in the process of presenting its curators to vote. The bounty aims to have a proactive approach with specific requests for features which are [open for contributions](https://docs.google.com/spreadsheets/d/17JHe2xgNTAARnBubaoOqJVeiouh_LqV_Vv0xYoVbVJE/edit?gid=91985603#gid=91985603). There are also monthly calls open for participation. You will be able to track those calls from our [OpenGov calendar](https://calendar.google.com/calendar/u/0?cid=Y183NDQ4NTQzM2I4YTljNjUzY2U1NzZhY2YzOWZlNTQ4NjgyZTFmODUxOWUyZDlmYWNhZTM5MDE3OWJkZTRmYTFjQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20) as they are announced.
+- **Automated Refill:** The [proposal](https://polkadot.subsquare.io/referenda/822) that was seeking nearly 10 million DOTs for four years of continuous funding for the marketing bounty has failed. A [new proposal](https://polkadot.subsquare.io/referenda/920) to refill the bounty with 500k DOT is currently being voted on the OpenGov.
+- **Events are Back:** After a controversial process, the events bounty is [open for applications](https://x.com/dotevents_/status/1806020324678349038) again with new curators and a recently refilled sub-treasury.
+- **Keep Governing:** The [governance bot](https://github.com/ChaosDAO-org/InternalGov-2.0) that is developed by Chaos DAO members is being implemented on the internal voting processes of new Decentralized Voices delegates Scytale Ventures and Lucky Friday. Any group or team can implement this open-source tool to their Discord server to automatically receive alerts on OpenGov proposals and completely automatize the voting process within their community.
+- **W3F Announcements:** Web3 Foundation [released a report](https://medium.com/web3foundation/empowering-the-community-the-positive-impact-of-decentralized-voices-on-opengov-c681e017628b) that analyzes the voting behavior of the previous DV delegates. We would like to repeat our call for everyone to delegate their votes to increase participation in OpenGov proposals and to enable more coherent decision-making for the network’s future. They have also [announced the closure](https://x.com/davidhawig/status/1807662792410837077) of the Decentralized Futures program with a total number of 250 applicants. The Web3 Foundation is also [starting a new program](https://x.com/davidhawig/status/1803035124960833832) called the Decentralized Nodes which aims to incentivize validators.
+
+### Follow OpenGov.Watch
+
+- Follow us on X: [@xcjeeper](https://twitter.com/xcjeeper) [@alice_und_bob](https://twitter.com/alice_und_bob)
+- Check out [OpenGov.Watch](https://www.opengov.watch/)
