@@ -1,4 +1,4 @@
-# Discussion & Campaigning
+# Proposals: Discussion & Campaigning
 
 This page explains the discussion phase for you. All of the steps described here are optional, but significantly increase your chances to get a proposal approved.
 
