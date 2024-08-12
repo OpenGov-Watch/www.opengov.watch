@@ -1,15 +1,6 @@
 # 2024 April Polkadot OpenGov Report
 ![](/img/2024-04-governance-report/shrimps.png)
 
-The latest episode of our monthly OpenGov report is here. We report on
-
-- Giotto pressing charges against Guppies
-- The new Wish-for-Change track and how it changes the power dynamics in OpenGov
-- The epic match for a certain sports sponsorship
-- and more…
-
-To receive future updates, [subscribe to our newsletter](https://www.polkalytics.io/).
-
 ## The Trial
 
 Anons on trial! Without a doubt, the biggest drama on OpenGov this month was Giotto [pressing charges](https://twitter.com/giottodf/status/1783283026019135668) for defamation and slander against a couple of anons on X and Telegram as well as the owner of the [Guppies](https://t.me/dotguppies) Telegram group.
@@ -26,16 +17,13 @@ With the introduction of Wish for Change, OpenGov has already received a couple 
 
 While the latter proposes practical features, the inflation and delegation referenda are the most interesting from a judiciary perspective. Once again within a constitutional debate, we are witnessing a legalization process of previously technical features. For example, the result of the delegation referenda will make the delegation feature a decision by the token holders, which can be considered as establishing a precedent for the right to delegations in OpenGov, while it was merely a technical feature before. Similarly, the token holders will be making a legislative decision on the inflation, while it was an executive decision made by the initial builders of the network until now.
 
-## An epic Match
+## The Extra Time
 
 The biggest turnout and the most violent swings happened on a [sports sponsorship referendum](https://polkadot.subsquare.io/referenda/644). With an ask of 8.8 million USD, the sponsorship referendum was kicked out twice from the confirmation period until an anonymous whale voted Aye with 19 million DOT voting power which seemingly made the decisive call. The swings on the referendum caused much confusion while it also attracted some sleeping giants with 6 million DOT voting power that had never voted in OpenGov before and only went active with this referendum on the Nay side. A last-minute name and description change of the referendum also attracted questions from the community. Information relating to the proposal has been removed “upon request of the rights holder due to details relating to price, benefits, and term of the agreement being considered sensitive and confidential”. The referendum is currently passing on the last days of its confirmation period.
 
 ## Alice in Chains
 
 [The Chainalysis referendum](https://polkadot.subsquare.io/referenda/684) seems like a good candidate to be the biggest drama of next month with another huge ask of $10 million for the integration of the Polkadot relay chain to their platform. It has been claimed that Chainalysis “[is a surveillance platform](https://twitter.com/saxemberg/status/1781546776702386393)” and its “close ties” with [intelligence agencies](https://twitter.com/TugyTur/status/1781740481749061635) around the world have been underlined by different ecosystem agents. A very [heated discussion](https://x.com/TheKusamarian/status/1783866123441656000) took place on AAG during the presentation by the Chainalysis team as well. With the big whales on the Aye side and most of the DV on the Nay side, we will be observing this referendum closely in its following stages.
-
-Make sure to not miss future updates, [subscribe to our newsletter](https://www.polkalytics.io/).
-
 
 ## Notable mentions
 
@@ -68,5 +56,4 @@ Check out OpenGov.Watch [April Performance Summary](https://www.opengov.watch/bl
 
 - Follow us on X: [@xcjeeper](https://twitter.com/xcjeeper) [@alice_und_bob](https://twitter.com/alice_und_bob)
 - Check out [OpenGov.Watch](https://www.opengov.watch/)
-- Find us on [Grill](https://grillapp.net/12859?ref=9409)
 - [Subscribe to our newsletter](https://www.polkalytics.io/) to receive monthly updates
