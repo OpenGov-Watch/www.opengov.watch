@@ -30,7 +30,7 @@ During the last couple of months, we continuously observe a very dangerous trend
 
 One of the most important resources of any society is its social capital. We can only talk about a society with the people who create its fabric and form the networks of cooperation and shared values that enable collective action.
 
-Leaders emerge from this collectivity. **Traditional leaders** derive their authority from customs and beliefs, often resembling a king or tribal chief who commands respect due to long-standing tradition. The next step is **rational-legal leaders**. ****They gain their authority from a system of well-established laws, rules, and regulations.
+Leaders emerge from this collectivity. **Traditional leaders** derive their authority from customs and beliefs, often resembling a king or tribal chief who commands respect due to long-standing tradition. The next step is **rational-legal leaders**. They gain their authority from a system of well-established laws, rules, and regulations.
 
 In contrast, a **charismatic leader** can be the most unpredictable of the three. While they have the potential to inspire people with their compelling rhetoric and strong personal presence, they also pose a significant risk of polarization. Their fragile authority is rooted in personal charisma and the ideological narrative they promote, which can quickly divide communities.
 
