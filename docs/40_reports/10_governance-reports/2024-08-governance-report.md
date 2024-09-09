@@ -47,4 +47,6 @@ Polarization is one of the main traps that lead to a dysfunctional society. As d
     3. The Chainlaysis proposal is again a controversial one. It has been kicked out of confirmation five times already and currently holding slightly above the 50% mark with 5 days remaining on the confirmation period.
 - **More Sponsorships:** Conor Daly is back with [another sponsorship proposal](https://polkadot.subsquare.io/referenda/1111) which costs approximately $7,5 million. The proposal is currently failing by a wide margin. OpenGov has [previously sponsored](https://polkadot.subsquare.io/referenda/514) Conor Daly with around $2,1 million. An overview and report of the previous proposal is provided in the new proposal.
 
-### Follow [OpenGov.Watch](http://OpenGov.Watch) on X: [@xcjeeper](https://twitter.com/xcjeeper) [@alice_und_bob](https://twitter.com/alice_und_bob)[](https://www.opengov.watch/reports/governance-reports/2024-06-governance-report#follow-opengovwatch)
+### Follow [OpenGov.Watch](http://OpenGov.Watch) on X: 
+- [@xcjeeper](https://twitter.com/xcjeeper) 
+- [@alice_und_bob](https://twitter.com/alice_und_bob)
