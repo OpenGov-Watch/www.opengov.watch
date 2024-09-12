@@ -5,7 +5,7 @@ slug: /
 
 Polkadot is the biggest DAO in the world. We help OpenGov grow up and develop structures and culture. We monitor ongoing developments, publish reports, consult OpenGov participants and provide thought leadership through curating a community-developed strategy for ecosystem development.
 
-The **[Polkadot 2.0 Strategy](https://opengovwatch.notion.site/Polkadot-2-0-Strategy-264b338f38184248acbf630879f8386f?pvs=74)** summarizes problems, solutions, and objectives to push the Polkadot ecosystem forward.
+The **[OpenGov Portal](https://www.notion.so/opengovwatch/Polkadot-Governance-f8baf91a46864144ae96c47173a10225)** is your gateway to understand all the current efforts in OpenGov.
 
 Useful links:
 - To learn what Polkadot OpenGov is, read the [Introduction to OpenGov](https://wiki.polkadot.network/docs/learn-polkadot-opengov) in the Polkadot Wiki first.
