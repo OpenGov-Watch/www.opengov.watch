@@ -1,5 +1,5 @@
 ---
-title: OpenGov.Watch - 2024 July Performance Summary
+title: OpenGov.Watch - 2024 August Performance Summary
 authors: anb
 tags: []
 ---
