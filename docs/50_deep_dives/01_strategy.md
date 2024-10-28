@@ -1,5 +1,9 @@
 # Strategy
-This page reflects our opinions on the strategic direction of Polkadot Governance.
+This page reflects our opinions on the strategic direction of Polkadot Governance. The thoughts represented here are curated through numerous conversations with ecosystem agents and members of the community.
+
+## Vision
+
+Polkadot is the best way to build Web3.
 
 ## Objectives
 Objectives represent the convergence of stakeholder intentions in Polkadot Governance. They tell us where to direct our attention and resources and on which topics we should formulate initiatives and programs. Objectives tell us where we lack something or where we need to get stronger or can strategically grow. They allow us to derive measurable key results towards which we can work.
