@@ -1,9 +1,9 @@
 {
-    "label": "Deep Dives",
+    "label": "Direction",
     "position": 50,
     "link": {
       "type": "generated-index",
       "description": "-",
-      "slug": "deep-dives"
+      "slug": "direction"
     }
   }
