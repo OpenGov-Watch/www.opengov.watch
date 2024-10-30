@@ -122,7 +122,7 @@ These positions the custodial counterparts to non-custodial liquidity provision.
 
 ### Liabilities and Treasury Balance
 
-![image.png](/img/2024-q3-treasury-report/image%201.png)
+![image.png](/img/2024-q3-treasury-report/image1.png)
 
 Liabilities are simple in Polkadot.
 
@@ -137,7 +137,7 @@ When presenting financial statements in crypto, the question always arises of wh
 
 For the income statement, we use DOT as the primary unit of account, since it is the unit that the primary Treasury income, inflation, is based on. For the expenses section, we will additionally provide a USD-denominated table, since expenses are part of the income statement that is also relevant to understand in stable terms.
 
-![image.png](/img/2024-q3-treasury-report/image%202.png)
+![image.png](/img/2024-q3-treasury-report/image2.png)
 
 Polkadot spending has reduced from 7.9m DOT in Q2 to 5.1m DOT in Q3. Burn surpassed inflation this quarter. Relay chain fees went down and we expect them to go down as more and more functionality is moved out to system chains as part of Polkadot’s grander JAM strategy. In the future, the primary metric for value accrual in Polkadot will likely be DOT burn through core sales (as well as potential fees via the Plaza super chain project)
 
@@ -168,7 +168,7 @@ The categories described in this chapter have been developed over the last year 
 5. **Talent & Education:** education, hackathons, recruiting, talent incubation (e.g. PBA)
 6. **Economy:** Liquidity Incentives to stimulate the economy
 
-![image.png](/img/2024-q3-treasury-report/image%203.png)
+![image.png](/img/2024-q3-treasury-report/image3.png)
 
 **27m USD (5.2 m DOT) were spent in Q3.** That is about half the USD-equivalent of Q2 (58m USD → 27m USD) and a sharp decline in DOT-equivalent spending (8m DOT → 5.2m DOT).
 
@@ -184,17 +184,17 @@ Now let’s dive a bit into each category!
 
 #### Outreach
 
-![image.png](/img/2024-q3-treasury-report/image%204.png)
+![image.png](/img/2024-q3-treasury-report/image4.png)
 
 **9.9m USD was spent on outreach** (vs. 26.8m USD in Q2), which included activities such as marketing, business development, and community development—everything intended to attract new users, developers, and businesses to the ecosystem.
 
 The subcategories of advertising and events are so differentiated that we group them into further sub-subcategories.
 
-![image.png](/img/2024-q3-treasury-report/image%205.png)
+![image.png](/img/2024-q3-treasury-report/image5.png)
 
 **Advertising (7.4m USD)** made up the majority of the outreach efforts this quarter. Top-ups were given to the **sponsorship deals (4m USD)** with Inter Miami (3.9m USD) and HEROIC (84k USD) while **influencers (3.3m USD)** earned their living through agencies such as Pineta Digital (2.2m USD), EVOX (650k USD), Pink Brains (330k USD), and Lunar Strategy (50k USD).
 
-![image.png](/img/2024-q3-treasury-report/image%206.png)
+![image.png](/img/2024-q3-treasury-report/image6.png)
 
 **1.7m USD were spent on events**. Polkadot attended **Conferences & Side Events (930k USD)** such as Token2049 (370k USD), the Asia Blockchain Summit 2024 (105k USD), the Korea Blockchain Week 2024 (103k USD) and 10 others. Dozens of **smaller meetups (387k)** came out at about the same value as **Conference Hosting (368k USD)** for the Sub0 Developer Conference.
 
@@ -202,7 +202,7 @@ Other subcategories under outreach: **PR (336k USD)** with Chainwire (319k USD) 
 
 #### Development
 
-![image.png](/img/2024-q3-treasury-report/image%207.png)
+![image.png](/img/2024-q3-treasury-report/image7.png)
 
 **11.9m USD was spent on Development** (vs. 10m USD in Q2)**.** The biggest position is for the Polkadot-Ethereum **bridge (5.2m USD)**, which went live recently. **Wallets (1.6m USD)** funded Subwallet (810k USD), and three new entrants: new Kampela (640k USD), Polkasafe multisig (160k USD), and PlutoWallet (35k USD).
 
@@ -216,31 +216,31 @@ Further subcategories here were **Protocol Subsidies (162k USD), Education (155k
 
 #### Talent & Education
 
-![image.png](/img/2024-q3-treasury-report/image%208.png)
+![image.png](/img/2024-q3-treasury-report/image8.png)
 
 **Talent & Education comprised 3.8m USD** (vs. 2.3m USD in Q2). The main subcategory is **Trainings & Hackathons (3.8m USD)** with 2.2m USD for the Polkadot Blockchain Academy and the remainder for various hackathons. The subcategories **Recruiting (187 USD)** and **Education (48 USD)** might look amusing this time but reflect that the Treasury also gives out tips to ecosystem participants that do small value-adding work like creating standardized interviews or writing guides and asking for modest tips.
 
 #### Operations
 
-![image.png](/img/2024-q3-treasury-report/image%209.png)
+![image.png](/img/2024-q3-treasury-report/image9.png)
 
 **Operations cost 1.4m USD in Q3** (vs. 1.7m USD in Q2). **RPCs and Nodes (577k USD)** keeps the network running, paying 462k USD to the Infrastructure Builders Program Bounty, 74k to the Public RPCs for Relay and System Chains Bounty, and 40k to the System Parachains Collator Bounty.  This makes this whole subcategory covered under bounties! **Explorers (297k USD)** covers Subscan’s (259k USD) cost for 9 months and some other licenses (38k USD). **Data Services & Indexing (270k USD)** went to Subsquid (234k USD) and Polkawatch (35k USD). **Infrastructure (104k USD)** exclusively covered the Paseo Testnet Bounty. Polkadot spent **45k USD on Legal** costs to acquire IP rights through the Polkadot Community Foundation. Minor positions were spent on **Ecosystem Services (11k USD)** and **Governance (3k USD)**
 
 #### Research
 
-![image.png](/img/2024-q3-treasury-report/image%2010.png)
+![image.png](/img/2024-q3-treasury-report/image10.png)
 
 **313k USD were spent on Research** (vs. 1.5m USD in Q2). Security (183k USD) consisted of a codebase audit for ink! 5.0. **The Anti-Scam bounty consumed 125k USD.** Minor positions were spent on **Smart Contract (2k USD)** and **Governance (1k USD)** research.
 
 #### Bounties
 
-![image.png](/img/2024-q3-treasury-report/image%2011.png)
+![image.png](/img/2024-q3-treasury-report/image11.png)
 
 Let’s look at Bounties and the Collective spends. They are the two types of executive bodies that simplify OpenGov by reducing the volume on the general voting tracks and instead directing funds to expert bodies to decide on spending. In the table above we can see that bounty spending was more consistent than direct spending. Collective spending has trended up. Keep in mind that these costs were already represented in the previous chapters and this is just a different perspective to represent them.
 
 We begin with bounties.
 
-![image.png](/img/2024-q3-treasury-report/image%2012.png)
+![image.png](/img/2024-q3-treasury-report/image12.png)
 
 Overall, 18.8m USD have been flowing through bounties this year so far. 6.4m USD in Q3.
 
