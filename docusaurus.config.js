@@ -97,6 +97,21 @@ const config = {
       }
     }),
 
+  plugins: [
+    [
+      '@docusaurus/plugin-client-redirects',
+      {
+        fromExtensions: ['html'],
+        redirects: [
+           {
+            from: '/technical_fellowship/polkadot_roadmap',
+            to: '/polkadot-roadmap',
+           }
+        ]
+      }
+    ]
+  ]
+
 };
 
 module.exports = config;

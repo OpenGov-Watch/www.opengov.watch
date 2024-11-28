@@ -10,7 +10,7 @@ https://github.com/polkadot-fellows/runtimes/releases/tag/v1.3.3
 - Allow signed origins to send arbitrary XCMs from some system chains ([polkadot-fellows/runtimes#407](https://github.com/polkadot-fellows/runtimes/pull/407))
     - users can submit their own XCM calls as extrinsics
     - it is considered safe now to allow users sending arbitrary XCM
-- Asset Hubs: allow Polkadot, Kusama and Ethereum assets across P<>K bridge ([polkadot-fellows/runtimes#421](https://github.com/polkadot-fellows/runtimes/pull/421)).
+- Asset Hubs: allow Polkadot, Kusama and Ethereum assets across P-K bridge ([polkadot-fellows/runtimes#421](https://github.com/polkadot-fellows/runtimes/pull/421)).
 - Polkadot: Make the current inflation formula adjustable ([polkadot-fellows/runtimes#443](https://github.com/polkadot-fellows/runtimes/pull/443))
 
 

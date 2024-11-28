@@ -22,7 +22,9 @@ Before you read on, make sure to follow our socials:
 
 We were told that we can change the course of history. We watch in awe as AI is writing history. Our lives are enriched by constantly updating technology and watch in fear as the same technology is used in wars to end human lives. We have built a global information network and handed over control to big corporations and nation-states. We are participating in a global economy that is being weaponized without our consent.
 
-And in the midst of all that, we decide to spend our time in the deep in blockchain technology. If you are reading this post, chances are that you think that crypto can be part of the solution to many of those problems. You were born just right for Web3.
+And in the midst of all that, we decide to spend our time in the deep in blockchain technology. If you are reading this post, chances are that you think that crypto can be part of the solution to many of those problems. You were born just right for Web3...
+
+<!-- truncate -->
 
 ## Walking in the footsteps of Satoshi
 Crypto is not apolitical. Bitcoin was born out of the need to create money that is independent of central banks, nation-states, and institutions. A trustless peer-to-peer transaction system. It's a radical and subversive idea. This idea caught on in the minds of many people and created the industry we are confronted with today. Something that might be bigger than even Satoshi envisioned.
