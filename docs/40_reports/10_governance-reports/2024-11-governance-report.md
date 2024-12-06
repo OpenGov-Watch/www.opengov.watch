@@ -2,52 +2,69 @@
 
 ![](/img/2024-11-governance-report/Bullnovember.png)
 
-Polkadot’s unified strategy is beginning to take shape with Polkadot Cloud as the core infrastructure for Web3 applications and Polkadot Hub as the center for community and governance. This vision, recently [introduced by Shawn Tabrizi](https://forum.polkadot.network/t/the-polkadot-cloud/10670), brings fresh focus to Polkadot’s marketing efforts as well as its broader goal of building a scalable, community-centered ecosystem. In this month's report, we dive into these topics, including Q3 Treasury spending, new proposals for bounty standards, the launch of Project Phoenix, and more.
+**Bulls Are in Control!** With Bitcoin's rally officially marking the start of the bull market, Bullposters are seizing control of the narrative on social media—a welcome shift after three long years of bear market discussions. Now is the time to activate the resources we've gathered and put the structures we've built into action!
 
-## Decentralized Budgeting
+## Setting Standards
 
-We published our latest [Treasury Report for Q3 2024](https://forum.polkadot.network/t/2024-q3-polkadot-treasury-report/10450). This quarter saw a reduction in overall spending, with outreach dropping sharply, while allocations for development and education remained steady. The report also details updates like the treasury’s first active asset swap and recent DeFi activity. These shifts reflect a more cautious approach to spending, which aligns with our push for [decentralized budget management](https://forum.polkadot.network/t/budgeting-via-subdaos-wfc-draft/10448) across the network.
+The [proposal we introduced](https://polkadot.subsquare.io/referenda/1254) last month, calling for mandatory standards for bounties in OpenGov, passed with overwhelming support, securing a 97% approval rate.
 
-![](/img/2024-10-governance-report/spending2024Q3.png)
+We now expect all existing bounties to align with these standards, as mandated by OpenGov. The goal is to ensure that every executive body operates with clear guidelines for budgeting, transparency, and compliance. As OpenGov.Watch, we are actively monitoring multiple bounties, and we think adhering to these standards will not only improve governance transparency but also lead the network to more [predictable and sustainable budgeting](https://forum.polkadot.network/t/based-budgeting-a-bottom-up-approach-for-strategic-effective-decentralized-budgeting/9555).
 
-In this effort, we recently [proposed a WFC proposal](https://polkadot.subsquare.io/referenda/1254) to set some basic standards for bounties. We hope that this proposal gains solid backing and that token holders reinforce these standards with their votes so that the network can establish a real culture of transparency and accountability around treasury funds. Organizing a decentralized budgeting strategy is still very experimental and not easy, but as Polkadot, we are the first community to even attempt it on this scale.
+As the new year approaches, we are already reaching out to active bounties to assess their situation and work collaboratively to implement these standards. If you’re part of a bounty and have questions or need guidance you can always [book a call](https://www.opengov.watch/booking) with the OpenGov.Watch.
 
-If we can get some standards in place, it will be easier for the network to delegate more responsibility to these departments. You can read more about this plan in our forum post. We are already working on the [draft of the next WFC proposal,](https://hackmd.io/@alice-und-bob/BJeSgnYy1g) which will lay the ground for this transition. If everything goes as planned, the network can start routing funds to departments with designated budgets, eventually giving users a full picture of network budgeting with a bottom-up approach. Without a central decision-making body, these decisions have to come from the ground up. For more on this approach, [check out the BASED budgeting](https://forum.polkadot.network/t/based-budgeting-a-bottom-up-approach-for-strategic-effective-decentralized-budgeting/9555) post.
+## Parallel Hack
 
-Back to the current WFC voting process. Technically, a simple 50%+1 vote could pass the proposal, but there are two issues with that understanding:
+A remarkable demonstration of Polkadot governance in action was showcased recently. Parallel Finance, a rollup operating on Polkadot, suffered a governance attack where hackers gained control of user funds on the rollup. Although **the Polkadot Relay Chain itself is completely secure**, OpenGov had the authority to intervene because the rollup operates under Polkadot’s security umbrella.
 
-1. Unity in the Network: If a proposal passes by just a few votes, it means the other half of the network is opposed. That is not the unity we are after.
-2. Building a Culture: We are building something to last here, a shared set of values only works with strong support from all participants.
+Responding to a call for assistance from some ecosystem agents, the Technical Fellowship swiftly [proposed a referendum on the Whitelisted Caller track](https://polkadot.subsquare.io/referenda/1322). The proposal aimed to rebond the tokens targeted by the hackers, effectively halting the unbonding process and granting the Parallel team 28 additional days to devise a solution. Importantly, this intervention did not take custody of the funds but rather **froze their movement, buying critical time** for recovery efforts.
 
-So take your time with these ideas, get involved in the discussions, and show up with your thoughts and your votes. [This is a project](https://forum.polkadot.network/t/legislation-through-wfcs/9982) we can only build together.
+The referendum passed rapidly, with nearly 9% voter turnout, and the rebonding extrinsic was enacted just five days later—mere hours before the unbonding period would have ended. This timely intervention showed the agility of Polkadot’s governance system. Meanwhile, the hackers issued a [statement via the root track](https://polkadot.subsquare.io/referenda/1326), accusing the Parallel team of misconduct, further complicating the narrative.
 
-## **Marketing Bounty Operational**
+Blockchain hacks and attacks are not uncommon, but this case [highlights the unique strength](https://x.com/alice_und_bob/status/1862469090654216461) of Polkadot's governance system. Unlike other ecosystems, Polkadot OpenGov can actively intervene across connected chains to solve critical issues. By providing the hacked project valuable time to respond, Polkadot highlighted its effective governance, strong community reaction, and ability to protect the rollups in its ecosystem.
 
-The new marketing bounty has launched with nearly [84% approval](https://polkadot.subsquare.io/referenda/1166), backed by over 58 million DOT in voting power. As OpenGov.Watch, we are excited to hold a curator seat on this bounty, and we’re committed to applying all bounty compliance standards here with support from the other curators.
+## Fixing Pure Proxies
 
-Internal operations have begun, and the documentation and homepage are currently in the works. The bounty will start accepting proposals by mid-November, with payments expected to begin by the beginning of December.
+Another [proposal hitting the root track](https://polkadot.subsquare.io/referenda/1308) addressed a long-standing issue with pure proxy addresses. Pure proxies are chain-specific, meaning that if a pure proxy received assets on a chain other than its designated one, those assets would become inaccessible to the owner.
 
-We have already outlined [our curator strategy as OGW](https://x.com/xcjeeper/status/1845885694138273970): proposals will undergo high scrutiny, focusing on product-market fit, transparency, and prioritizing educational content and integrations over pure advertising. On top of this ‘individual’ approach, the recent discussions on Polkadot Cloud and Polkadot Hub introduce a more grand strategy for the network which is highly relevant for the marketing operations as well.
+This issue notably impacted four major pure proxy wallets funded by OpenGov: Heroic, the Editorial Board, Polytope Labs, and the Polkadot Blockchain Academy. These wallets had stablecoins stuck in their Asset Hub addresses while their pure proxies were set up on the Polkadot relay chain. The [Heroic sponsorship](https://polkadot.subsquare.io/referenda/762) deal, which has been widely appreciated for its [impactful advertising videos](https://www.youtube.com/watch?v=7KYpoLsEmwE), was the largest among the affected cases.
 
-We recognize that frequent narrative shifts can challenge teams focused on outreach, but the Polkadot Cloud narrative is powerful. Adopting it early could make a strong impact, especially as this narrative could easily be stolen and adopted by other chains!
-
-## Project Phoenix - Next Phase for the Ambassador Program
-
-A new ambassador collective, Project Phoenix, has been proposed thanks to the hard work of several current ambassadors following multiple community calls for network feedback. [Voting on the proposal](https://polkadot.subsquare.io/referenda/1267) runs until early December, and, if accepted, the program is expected to launch by early 2025. The Project Phoenix manifesto emphasizes a return to community roots, drawing lessons from past ambassador programs, and prioritizing collaboration over competition. Key values include inclusivity, grassroots community building, and building a collective movement rather than a business-focused model.
-
-The proposal introduces a rank-based membership system, mirroring the Technical Fellowship's code of conduct, with clear processes for promotions, demotions, and internal voting. You can check out more details in the [summary document](https://docs.google.com/document/d/1rTgaaGLzkwl8GTEyHKtWYY2aHIXGxvP6fRxUkZ2bmOs/edit?tab=t.0), view the [full manifesto on GitHub](https://www.notion.so/Polkadot-OpenGov-Portal-f8baf91a46864144ae96c47173a10225?pvs=21), and stay updated with [the roadmap](https://docs.google.com/document/d/1oC1E5WeYp20kmnLbU-EcUOT2VNAjhuKUWscQrvYGIN8/edit?tab=t.0). Remember, none of the ambassadors have received payment to date, and Project Phoenix itself is built entirely on voluntary effort.
+The proposal, [introduced by Radha from Web3 Foundation](https://forum.polkadot.network/t/pure-proxy-replication-on-asset-hub-via-root-referendum/10802), aims to resolve this issue, allowing these teams to finally access their stuck funds.
 
 ## Notable Mentions
 
-- **Governance in Data:** Parity’s DotLake team [has released a report](https://forum.polkadot.network/t/opengov-report-year-in-review/10426) providing an in-depth, data-focused look at Polkadot’s governance since the launch of OpenGov, with statistics updated through October 2024. The report highlights key areas like voting behavior and trends, mapping out referendum details, and an overview of the Polkadot Fellowship. It also explains how the Decentralized Voices program has influenced decisions and offers insights into Bounties, showing major fund recipients and allocation. Packed with visualized metrics, this report is an excellent resource for anyone interested in the data-driven side of Polkadot’s governance.
+- **Treasury Net Flow Turns Positive:** With the decommissioning of the old Marketing Bounty, reckless spending has come to a halt. For the first time in months, Polkadot’s [treasury net flow turned positive](https://x.com/BillLaboon/status/1861692830554419412) in November, recording a surplus of over 400k DOT. While the spending from the new Marketing Bounty will likely impact this figure negatively in December, the expectation is for a more balanced net flow throughout 2025. To stay updated on treasury movements, you can explore the [Dune dashboard](https://dune.com/substrate/polkadot-gov).
+- **The New Editorial Board:** Polkadot’s main X account has introduced its new editorial board. Following the [approval of a recent small spender proposal](https://polkadot.subsquare.io/referenda/1260), [Emil](https://x.com/EmilKietzman), [Esther](https://x.com/estherjade1), [Flavio](https://x.com/Flavio_leMec), [Goku](https://x.com/0xgoku_), and [Irvin](https://x.com/irvinxyz) will now contribute to the account's content under the direction of [Evan](https://medium.com/@web3/decentralized-futures-meet-evan-thomas-253a65327f96). We extend our congratulations to the new board members and wish them great success in their roles!
+- **Ambassador Fellowship:** The new Ambassador Fellowship has been successfully [approved on the root](https://polkadot.subsquare.io/referenda/1267) track. It’s now up to the fellowship to replace the previous ambassador collective with this updated version. Establishing this program has been a long and challenging journey, but a well-structured plan is now on the horizon. A medium spender [proposal to fund the collective](https://polkadot.subsquare.io/referenda/1287) is also nearing approval.
+    
+    Led by Lucy and Don Diego Sanchez, this initiative is generating significant excitement across the community, and we eagerly await the results. Additionally, a [tipper proposal](https://polkadot.subsquare.io/referenda/1330) has been submitted to fund Lucy and Don Diego’s efforts in developing the new program. For more details, check out our previous governance report or refer to the [summary document](https://docs.google.com/document/d/1rTgaaGLzkwl8GTEyHKtWYY2aHIXGxvP6fRxUkZ2bmOs/edit?tab=t.0#heading=h.l2tlwodmztj0) of the new collective.
+    
+- **Quadratic Funding:** The Polkadot community continues to explore innovative funding mechanisms, building on efforts like [Optimistic Project Funding](https://polkadot.subsquare.io/referenda/712) and the newly introduced [Phragmèn Initiative Fund](https://docs.google.com/document/d/1mQq_YuOpPK25QvaC0vkN8oSvPe-jt-CkZXr0q_gjUdw/edit?tab=t.0) by the Ambassador Fellowship. Among these alternatives, the Opensquare team recently [proposed](https://polkadot.subsquare.io/referenda/1321) a complex quadratic funding system for OpenGov.
+    
+    Although this proposal is currently facing significant disapproval and the decision deposit has not been placed, it represents an important effort to push the boundaries of legislative and funding frameworks in OpenGov. Proposals like this spark valuable discussions and reflect the commitment to experimenting with forward-thinking ideas.
 
-- **New Editorial Board:** The Polkadot main Twitter account’s new editorial board [has been announced](https://x.com/Polkadot/status/1841524441043362168). The account, which was decentralized last year and successfully managed by Evan Thomas under a Web3 Foundation [DF grant](https://medium.com/@web3/decentralized-futures-meet-evan-thomas-253a65327f96), is supported by a rotating editorial team funded through OpenGov. The [treasury proposal](https://polkadot.subsquare.io/referenda/1260) backing the second term of the editorial board is currently passing by a wide margin.
+---
 
-- **Unified Address:** The UX Bounty’s first commissioned project is slowly taking shape. Developed by Jakub Panik of the Hydration team, this project aims to unify address formats across the ecosystem, simplifying the user experience, reducing confusion, and minimizing the risk of misdirected assets. For a summary, check the [Wish for Change proposal](https://polkadot.subsquare.io/referenda/1217), or [explore the UX Bounty's Notion page](https://www.notion.so/9e7c414ae769471c9016c9d8463a4d49?pvs=21) for further project details.
+## Marketing Bounty Report
 
-- **The Spammening:** The Spammening is near! With approvals on [Polkadot](https://polkadot.subsquare.io/referenda/1169) and [Kusama](https://kusama.subsquare.io/referenda/456), this event, initiated by established validator Amforc, is set to test network throughput by spamming transactions. This stress test will provide empirical data on transaction capacity, aiming to showcase Polkadot’s potential to outperform other blockchains under high demand.
+The new Marketing Bounty, where OpenGov.Watch (OGW) serves as a curator, is now live, actively accepting proposals and funding initiatives. As part of our commitment to promoting transparency and accountability within the ecosystem, OGW will publish monthly updates on our actions and the overall progress of the bounty as long as we remain involved.
 
-- **Swipegov:** Nova Wallet [has launched](https://x.com/NovaWalletApp/status/1843637478336422261) SwipeGov, a new feature enabling users to swipe proposals as “aye” or “nay” for easier governance participation. After swiping through a few proposals, SwipeGov bundles them into a single on-chain transaction. The feature is also AI-powered, offering summaries and links to full proposals before each swipe.
+### Bounty-Wide Efforts
+
+The curators are working tirelessly across multiple fronts, including outreach, due diligence, and establishing administrative structures. Over the past month, the bounty has reached out to more than 30 agencies to explore offers for campaigns in areas such as social media, PR, media, and press relations. Dedicated communication channels have also been created to ensure synchronization with other key outreach initiatives, including the Events Bounty, WagMedia, Kusamarian, and others.
+
+Requests for Proposals (RFPs) have been issued to onboard community managers for the upcoming year and invite offers from PR agencies. In a bid to improve accountability, the Bounty is exploring collaborations with the Polkadot Community Foundation for KYC/KYB services and working with legal advisors to establish formal contractual relationships with entities the Bounty engages with.
+
+### OGW’s Role in the Bounty
+
+As OpenGov.Watch, we are actively contributing to the Marketing Bounty by focusing on transparency and procedural standards. In the past month, we have:
+
+- Created the submission template for bounty proposals.
+- Assisted in setting up processes and standards for invoicing and compliance.
+- Contributed to the creation of a transparency page for bounty operations.
+
+While other curators focus more on outreach to agencies, OGW’s efforts are geared towards improving operational transparency and ensuring compliance with OpenGov standards. We are also preparing an RFP to overhaul [Polkadot’s Wikipedia page](https://en.wikipedia.org/wiki/Polkadot_(blockchain_platform)), which has been long neglected and currently contains minimal information.
+
+OGW remains committed to supporting the Marketing Bounty by ensuring transparency and adherence to OpenGov’s mandated standards. We are pleased to report that all curators are demonstrating exceptional dedication to maximizing the bounty’s impact on the ecosystem, working together to bring value to the Polkadot ecosystem.
 
 ## Get Involved[](https://www.opengov.watch/reports/governance-reports/2024-09-governance-report#get-involved)
 
