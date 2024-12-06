@@ -1,6 +1,6 @@
-# 2024 October Polkadot OpenGov Report
+# 2024 November Polkadot OpenGov Report
 
-![](/img/2024-10-governance-report/polkaclouds.png)
+![](/img/2024-11-governance-report/Bullnovember.png)
 
 Polkadot’s unified strategy is beginning to take shape with Polkadot Cloud as the core infrastructure for Web3 applications and Polkadot Hub as the center for community and governance. This vision, recently [introduced by Shawn Tabrizi](https://forum.polkadot.network/t/the-polkadot-cloud/10670), brings fresh focus to Polkadot’s marketing efforts as well as its broader goal of building a scalable, community-centered ecosystem. In this month's report, we dive into these topics, including Q3 Treasury spending, new proposals for bounty standards, the launch of Project Phoenix, and more.
 
