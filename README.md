@@ -1,5 +1,9 @@
 Repo for [OpenGov.Watch](https://www.opengov.watch)
 
+# Setup
+
+  yarn install
+
 # Website
 
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
