@@ -1,4 +1,4 @@
-# The Year of Waste - The Year of Reforms
+# 2024 December Polkadot OpenGov Report: The Year of Waste - The Year of Reforms
 
 ![](/img/2024-12-governance-report/waste.png)
 
