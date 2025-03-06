@@ -1,4 +1,4 @@
-# Bounty Best Practices
+# Bounties: Best Practices
 
 **Bounties are departments of Polkadot Governance.**
 
@@ -6,7 +6,7 @@ This guide outlines the key elements of running a bounty on Polkadot, covering h
 
 We assume that you know how bounties work in general. If you want to learn more about the basics, check out the [Polkadot Wiki Page on Bounties](https://wiki.polkadot.network/docs/learn-polkadot-opengov-treasury#bounties).
 
-Many of the required extrinsics to perform the actions mentioned in this guide are explained [here](https://wiki.polkadot.network/docs/learn-guides-bounties).
+Many of the required extrinsics to perform the actions mentioned in this guide are explained [here](https://wiki.polkadot.network/docs/learn-guides-bounties) as well as [Leemo's video tutorials](docs\03_guides\20_bounties-multisigs.md).
 
 ## Starting a Bounty
 
@@ -35,8 +35,6 @@ A multisig helps to balance security and accountability. The multisig should be 
 For multisig operations, curators can utilize a variety of tools, such as Multix, Signet, Mimir, and Spektr. We recommend using [Multix](https://multix.chainsafe.io/?network=polkadot). 
 
 The recommended structure is to use a pure proxy and have the curator set act as a multisig on behalf of the pure proxy. This setup allows the change of curators at any given time without requiring an additional OpenGov referendum, which doesn't disrupt the bounty operations during a potential curator change (Leemo’s [original diagram](https://x.com/LeemoXD/status/1816607697766342936)).
-
-Leemo created a guide to set up a pure proxy [here](https://www.youtube.com/watch?v=vvt5qqgn3n4).
 
 ![](/img/bounty-best-practices/bountybest.png)
 

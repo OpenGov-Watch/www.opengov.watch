@@ -1,6 +1,9 @@
-# Managing Bounties and Multisigs
+# Bounties: Multisigs, Child Bounties and Scheduled Payments
 
-This is a tutorial by Adam Steeber ([Twitter](https://x.com/AdamSteeber1)) on how to manage bounties, child bounties, multisigs, and proxies.
+These are a series of tutorials by Leemo ([Twitter](https://x.com/LeemoXD)) on how to manage bounties, child bounties, multisigs, and proxies.
 
-- Watch on YouTube: [Polkadot Bounties, Multisigs, & Proxies](https://www.youtube.com/watch?v=Qv_nJVcvQr8)
-- Download via Crust IPFS: [bafybeihw54mieztqeciydsz7zzs725m67ej22tipg2qb6lccq6xf4nigb4](https://crustipfs.live/ipfs/bafybeihw54mieztqeciydsz7zzs725m67ej22tipg2qb6lccq6xf4nigb4)
+- [Using Pure Proxies & Multisigs as curators](https://youtu.be/vvt5qqgn3n4?si=3sFxE7vIuOpbwsry)
+- [Issuing Child Bounties](https://youtu.be/0nq77X2UXJU?si=Pweox7NumplQOKSA)
+- [Referendum with Immediate and Scheduled Payments](https://youtu.be/Uz0RpYcCpr0?si=gR_VkY7S-bVrODRa)
+
+
