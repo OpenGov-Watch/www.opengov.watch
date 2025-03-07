@@ -1,6 +1,5 @@
 # Bounties: Best Practices
 
-**Bounties are departments of Polkadot Governance.**
 
 This guide outlines the key elements of running a bounty on Polkadot, covering how to get a bounty started, set up internal operations (including roles, compensation, and multisig structures), manage budgets and projects, and handle transactions. It also details communications strategies, submission templates, best practices for transparency and compliance, conflict of interest rules, branding guidelines, and the responsibilities that curators, advisors, and other stakeholders must uphold.
 
@@ -10,7 +9,7 @@ Many of the required extrinsics to perform the actions mentioned in this guide a
 
 ## Starting a Bounty
 
-Launching a new bounty typically begins with forming a coalition and designating curators who are trusted by the community and qualified to oversee the work. Early on, defining the bounty’s job or mandate is essential — whether it involves broad, ongoing tasks such as marketing or more specific, one-time objectives like finding the right esports team to represent Polkadot. A clear need and scope must be established so curators can accurately determine funding requirements and justify them to OpenGov.
+Bounties are departments of Polkadot Governance. Launching a new bounty typically begins with identifying a clear need or mandata and then forming a coalition of designated curators who are trusted by the community and qualified to oversee the work. Early on, defining the bounty’s job or mandate is essential — whether it involves broad, ongoing tasks such as marketing or more specific, one-time objectives like finding the right esports team to represent Polkadot. A clear need and scope must be established so curators can accurately determine funding requirements and justify them to OpenGov.
 
 Before submitting a formal proposal, prospective curators should engage in multiple rounds of community discussion to gather feedback and build a network of champions and established members who endorse the bounty. This process generally takes one to two months of proposal drafting, debate, and voting. 
 
