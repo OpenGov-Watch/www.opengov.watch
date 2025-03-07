@@ -5,7 +5,7 @@ This guide outlines the key elements of running a bounty on Polkadot, covering h
 
 We assume that you know how bounties work in general. If you want to learn more about the basics, check out the [Polkadot Wiki Page on Bounties](https://wiki.polkadot.network/docs/learn-polkadot-opengov-treasury#bounties).
 
-Many of the required extrinsics to perform the actions mentioned in this guide are explained [here](https://wiki.polkadot.network/docs/learn-guides-bounties) as well as [Leemo's video tutorials](docs\03_guides\20_bounties-multisigs.md).
+Many of the required extrinsics to perform the actions mentioned in this guide are explained [here](https://wiki.polkadot.network/docs/learn-guides-bounties) as well as [Leemo's video tutorials](docs\03_guides\21_bounties-multisigs.md).
 
 ## Starting a Bounty
 
