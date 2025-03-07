@@ -133,7 +133,7 @@ Each bounty should request funding no more than once per quarter, providing tran
 
 ### Transparency
 
-Bounties must share their progress summaries and financial statements outlining all expenses. Google Spreadsheets remains the preferred tool for accounting and time tracking.
+Bounties should share their progress summaries and financial statements outlining all expenses. Google Spreadsheets remains the preferred tool for accounting and time tracking.
 
 - UX Bounty’s [payout sheet](https://www.notion.so/19de29ff5d474a068b1ee67e13a934c1?pvs=21) and [quarterly reports](https://www.notion.so/18be1c2781f3801f8694f29306f5afcb?pvs=21).
 - Marketing Bounty’s [shared spreadsheet](https://docs.google.com/spreadsheets/d/1GhosV26WpZsajmMQmDxc0zw5YSzr5KOJ5YJZzvTEhvE/edit?gid=1811929621#gid=1811929621) and [monthly progress reporting](https://www.notion.so/1a34aaf5ccba802188abd3c6c19fb851?pvs=21).
@@ -155,11 +155,9 @@ Additional assets are available in the [Polkadot Brand Hub](https://polkadot.com
 
 ### Risks & Responsibilities
 
-Curators, advisors, and accountants collectively manage risks, ensure compliance, and uphold the terms of the bounty.
+A bounty acts as an extension of OpenGov. Curators take the role of guardians of the bounty funds. At the same time, curators need to make sure that they do not expose themselves to personal liability in their jurisdiction. To achieve this, we suggest that curators consult legal counsel and consider tax implications and regulatory requirements when dealing with bounty funds.
 
-Since they have the power of a signature, curators carry a particular responsibility for protecting funds and overseeing the deliverables of each project. 
-
-Curators should be mindful that operating as part of an unincorporated entity may expose them to personal liability if issues arise, so consulting legal counsel is highly recommended. They should also consider tax implications and regulatory requirements when dealing with Bounty funds.
+Ideally, curators should be able to prove that they act on behalf of the DAO and they have sufficient evidence to back up their decisions. As part of ensuring AML regulations are met, curators might want to ask service providers to provide identifying information.
 
 ## Closing a Bounty
 
