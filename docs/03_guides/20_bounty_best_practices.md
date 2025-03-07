@@ -157,7 +157,7 @@ Additional assets are available in the [Polkadot Brand Hub](https://polkadot.com
 
 A bounty acts as an extension of OpenGov. Curators take the role of guardians of the bounty funds. At the same time, curators need to make sure that they do not expose themselves to personal liability in their jurisdiction. To achieve this, we suggest that curators consult legal counsel and consider tax implications and regulatory requirements when dealing with bounty funds.
 
-Ideally, curators should be able to prove that they act on behalf of the DAO and they have sufficient evidence to back up their decisions. As part of ensuring AML regulations are met, curators might want to ask service providers to provide identifying information.
+Curators don't make contracts with proposers. They execute the mandata of the bounty and act on behalf of the DAO. Curators should make sure to document the process and their decisions. To ensure AML regulations are met, curators might want to ask service providers to provide identifying information.
 
 ## Closing a Bounty
 
