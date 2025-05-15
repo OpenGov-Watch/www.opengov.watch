@@ -65,7 +65,7 @@ As a result, it has been reported to us that there is a gap between operational 
 
 With a new top-up proposal approaching, we would like to share our observations regarding the Marketing Bounty since stepping down in January.
 
-First, we want to acknowledge the efforts of those who continue to work within the bounty. It is a high-stress & high-demand job. The new Marketing Bounty has significantly increased the quality of how the ecosystem does decentralized marketing. They restructured ad spends to be more efficient, focused on more meaningful platform integrations, supported individual ecosystem projects, and increased the focus on developing the regional PR presence. I will support them for the next 6-month cycle. The program currently employs a significant number of contributors across various roles, and we support its role in creating job opportunities within the ecosystem.
+First, we want to acknowledge the efforts of those who continue to work within the bounty. It is a high-stress & high-demand job. The new Marketing Bounty has significantly increased the quality of how the ecosystem does decentralized marketing. The bounty restructured ad spends to be more efficient, focused on more meaningful platform integrations, supported individual ecosystem projects, and increased the focus on developing the regional PR presence. The program currently employs a significant number of contributors across various roles, and we support its role in creating job opportunities within the ecosystem.
 
 At the same time, we have noted several concerns.
 
