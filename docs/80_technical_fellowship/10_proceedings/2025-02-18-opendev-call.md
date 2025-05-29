@@ -110,18 +110,3 @@
 - working on asset vesting
 - migration to latest stable version for the runtime, currently on 2412: XCMv5
 
-## Oliver
-
-AH
-
-peaq
-
-Frequency
-
-Mythical
-
-OriginTrail
-
-Hyperbridge
-
-vBrick
