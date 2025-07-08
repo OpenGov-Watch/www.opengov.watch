@@ -10,7 +10,7 @@ At first glance, that sounds absurd. Political systems are social designs. They 
 
 Sometimes, actors justify their intentions by claiming it is only natural. It is natural to defend your territory, to protect your influence, to ignore what does not affect you directly. But this kind of appeal to nature is not a neutral description. It is a way to shut down debate by framing behavior as beyond our control.
 
-The truth is that nothing is inevitable in a system designed to be open. The shape OpenGov takes is not the result of some natural law. It is the result of what we choose to tolerate, support, or ignore. And every vote, every proposal, every debate plays a part in deciding what kind of system we are building.
+The truth is that nothing is pre-defined in a system designed to be open. The shape OpenGov takes is not the result of some natural law. It is the result of what we choose to tolerate, support, or ignore. And every vote, every proposal, every debate plays a part in deciding what kind of system we are building.
 
 ## Please Vote Nay
 
