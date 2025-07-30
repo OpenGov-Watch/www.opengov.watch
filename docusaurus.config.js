@@ -72,13 +72,13 @@ const config = {
             sidebarId: 'tutorialSidebar',
             position: 'left',
             label: 'Docs',
-          },
+          }/*,
           {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://www.polkalytics.io/',
             label: 'Subscribe to our Newsletter',
             position: 'right',
-          },
+          }*/,
         ],
       },
       footer: {
