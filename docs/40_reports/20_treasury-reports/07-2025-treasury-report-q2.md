@@ -208,7 +208,7 @@ The biggest position in **Advertising (1.9m USD)** was a integration with the Bl
 
 Costs for **Events (1.5m USD)** are split up between hosting conferences, attending conferences, hosting side events to conferences and funding smaller meetups.
 
-Under **Conference Attendance & Side Events (1.3m USD)**, the biggest positions are The Blockspace Mansion Toronto & Berlin (360k USD), Consensus Toronta (180k USD), The Blockspace Brooklyn (130k USD), ETHLisbon (68k USD), ETHPrague (60k USD), and 20 more events.
+Under **Conference Attendance & Side Events (1.3m USD)**, the biggest positions are The Blockspace Mansion Toronto & Berlin (360k USD), Consensus Toronto (180k USD), The Blockspace Brooklyn (130k USD), ETHLisbon (68k USD), ETHPrague (60k USD), and 20 more events.
 
 For **Meetups**, 114 meetups were funded with 260k USD. Polkadot also funded the Polimex x Scytale Academy Demo Day for 16k USD to accelerate new projects.
 
@@ -306,7 +306,7 @@ Below you see a breakdown of how much has been spent per quarter in DOT, USDC, a
 
 ### Trend
 
-In the long-term trend, we can see that the DOT-denominated balance and cash are trending sidew.ays Since the Treasury is still very heavy on DOT, the overall Treasury value still correlates strongly with the DOT price.
+In the long-term trend, we can see that the DOT-denominated balance and cash are trending sideways. Since the Treasury is still very heavy on DOT, the overall Treasury value still correlates strongly with the DOT price.
 
 #### Balance Sheet Development
 

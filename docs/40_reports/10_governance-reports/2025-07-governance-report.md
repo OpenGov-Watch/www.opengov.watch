@@ -46,7 +46,7 @@ At this point, we have no plans to resubmit the proposal. The conversation aroun
 
 **PCF to remove Centrifuge assets:** the Polkadot Community Foundation [has been instructed](https://polkadot.subsquare.io/referenda/1633) to withdraw the treasury assets it deployed to Centrifuge [back in September 2024](https://polkadot.subsquare.io/referenda/1122). The decision follows Centrifuge’s [recent decision to deprecate](https://gov.centrifuge.io/t/cp141-initiate-the-development-of-centrifuge-v3-a-multi-chain-evm-based-protocol/6734) its Polkadot parachain in favor of building an independent EVM-based Layer 2, raising clear concerns about long-term alignment with the ecosystem.
 
-**No croissants in Argentina:** A [new proposal](https://polkadot.subsquare.io/referenda/1684) merging Sub0 and Polkadot Decoded into a single flagship event is currently being voted on, with near-unanimous support and 100% approval at the time of writing. The event is planned for Argentina with a $700K budget.
+**No croissants in Argentina:** A [new proposal](https://polkadot.subsquare.io/referenda/1684) merging Sub0 and Polkadot Decoded into a single flagship event is currently being voted on, with near-unanimous support and 100% approval at the time of writing. The event is planned for Buenos Aires in November with a $700K budget.
 
 **W3F launching Agents Program:** A Wish for Change proposal requesting the Web3 Foundation to initiate an Agents Program [has been approved](https://polkadot.subsquare.io/referenda/1660). This initiative may offer an alternative to the ambassador program, which the community has struggled to properly establish for over a year. 
 
