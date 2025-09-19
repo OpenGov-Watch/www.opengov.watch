@@ -3,7 +3,7 @@
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
-![Polkadot Roadmap](/img/polkadot-roadmap.png)
+![Polkadot Roadmap](/img/polkadot-roadmap-2025-07.png)
 
 Polkadot has two product angles: Polkadot Cloud and Polkadot Hub. Polkadot Cloud refers to all the services and chains that are built on top of Polkadot, while Polkadot Hub is the gateway for users and developers. You can read more on that [in the forum](https://forum.polkadot.network/t/the-polkadot-cloud/10670).
 
