@@ -24,7 +24,7 @@ This should not be read as a call to support either proposal, but the network ne
 
 ### DeFi Bounty in Confirmation
 
-DeFi Bounty’s proposal to extend its budget for one to one and a half years is [about to pass](https://polkadot.subsquare.io/referenda/1743). The ask is 1 million DOT, roughly 4 million USD. We know the team is working hard from direct interactions and ongoing checks. Yet much of the work is not visible to a wider audience. Our compliance audit flagged several gaps. We hoped to see these addressed during the vote, but there were no clear attempts, and even basic points like who the current curators are remain confusing for many. We hope to see these issues addressed quickly in the second term.
+DeFi Bounty’s proposal to extend its budget for one to one and a half years is [about to pass](https://polkadot.subsquare.io/referenda/1743). The ask is 1 million DOT, roughly 4 million USD. We know the team is working hard from direct interactions and ongoing checks. Yet much of the work is not visible to a wider audience. Our [compliance audit](https://forum.polkadot.network/t/bounty-compliance-audit-september-2025/14755) flagged several gaps. We hoped to see these addressed during the vote, but there were no clear attempts, and even basic points like who the current curators are remain confusing for many. We hope to see these issues addressed quickly in the second term.
 
 ### Ink Alliance Bounty Failing
 
@@ -32,13 +32,13 @@ A [new proposal for Ink Alliance Bounty](https://polkadot.subsquare.io/referenda
 
 ### Events Bounty Budget Extended
 
-Events Bounty’s [proposal to extend](https://polkadot.subsquare.io/referenda/1734) operations for six more months has been approved. The allocation is 500k DOT, approximately $2 million, securing runway for the department.
+Events Bounty’s [proposal to extend](https://polkadot.subsquare.io/referenda/1734) operations for six more months has been approved. The allocation is 500k DOT, approximately $2 million, securing runway for the next half year of the department.
 
 ### Public RPCs for System Chains
 
-The budget request for public RPC services on the system chains is [passing](https://polkadot.subsquare.io/referenda/1758) with unanimous support, with two weeks remaining in the decision period. It seeks 110k DOT, about $450k, to cover the next six months of operation for the bounty.
+The budget request for public RPC services for the system chains is [passing](https://polkadot.subsquare.io/referenda/1758) with unanimous support, with two weeks remaining in the decision period. It seeks 110k DOT, about $450k, to cover the next six months of operations for the bounty.
 
 ## Notable Mentions
 
 - **Utilizing Sub-treasuries:** The funding request for the collectives section on the Subsquare platform [was withdrawn](https://polkadot.subsquare.io/referenda/1722). The Technical Fellowship has decided to handle it [with an RFP](https://github.com/polkadot-fellows/RFPs/blob/main/rfp/0003-fellowship-uis.md) from its own subtreasury, since the Fellowship is currently the only active collective.
-- **The Party is Over:** The [$2m proposal for](https://polkadot.subsquare.io/referenda/1705) the game development of Pudgy Party was ****rejected with a 95% disapproval rate, a clear signal against proposals with no clear value to the network.
+- **The Party is Over:** The [$2m proposal for](https://polkadot.subsquare.io/referenda/1705) the game development of Pudgy Party was rejected with a 95% disapproval rate, a clear signal against proposals with no clear value to the network.
