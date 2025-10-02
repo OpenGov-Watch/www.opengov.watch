@@ -1,8 +1,6 @@
 # 2025 August Polkadot OpenGov Report
 
-![](/img/2025-08-governance-report/resurrections.png)
-
-## Resurrections
+![](/img/2025-08-governance-report/judge.png)
 
 A new voter is on the block: The Web3 Foundation
 
@@ -56,7 +54,7 @@ A [recent proposal to extend](https://polkadot.subsquare.io/referenda/1698) the 
 
 **DV Cohort 5 Announced:** A new [DV term began in early September](https://medium.com/web3foundation/decentralized-voices-cohort-5-announced-45fbf1c017ad) with two main categories. DV Light guardians hold a 200k DOT delegation each. They are a small set of subject matter voters who weigh in where they have expertise. They are not paid upfront, and the community can retroactively fund if there is clear value at the term end.  DV DAOs are resized into more teams with smaller individual weight, with 2m DOT per team in delegations, so no single group can steer outcomes alone. 
 
-There are also new guardrails in place, such as one delegate entity per person, mandatory recusal on conflicts of interest, and a two-strikes rule. The community has a direct line at [dv@web3.foundation](mailto:dv@web3.foundation) to report misconduct.  You can follow the live progress of DV’s voting behavior at [Helikon’s DV report website](https://www.notion.so/2025-08-Governance-Report-247fb5b66ded8039a9e3fb68870c3e36?pvs=21).
+There are also new guardrails in place, such as one delegate entity per person, mandatory recusal on conflicts of interest, and a two-strikes rule. The community has a direct line at [dv@web3.foundation](mailto:dv@web3.foundation) to report misconduct.  You can follow the live progress of DV’s voting behavior at [Helikon’s DV report website](https://dv.report/).
 
 **PCF Director Election Process:** A [proposal was submitted](https://polkadot.subsquare.io/referenda/1737) to define the PCF director election process. Two of the five PCF directors must be elected through OpenGov, but this step has been delayed and overlooked for the past year, which makes it difficult to engage with the PCF. The proposal is currently failing. The need remains to set a clear process for electing these directors, and it is better to resolve it sooner rather than later.
 
