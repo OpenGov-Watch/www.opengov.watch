@@ -50,7 +50,7 @@ The Pioneers Prize bounty is getting closed. A [referendum was submitted](https:
 
 ### Paseo Early Top-up
 
-The Paseo developer testnet bounty requested an early top-up. The proposal asks for another six months of funding to continue runtime upgrades, validator operations, and developer support around the test network. We previously reported on this early top-up in our [bounty runways research](https://forum.polkadot.network/t/bounty-runways-research-october-2025/15669).
+The Paseo developer testnet bounty [requested](https://polkadot.subsquare.io/referenda/1786) an early top-up. The proposal asks for another six months of funding to continue runtime upgrades, validator operations, and developer support around the test network. We previously reported on this early top-up in our [bounty runways research](https://forum.polkadot.network/t/bounty-runways-research-october-2025/15669).
 
 ## Notable mentions
 
